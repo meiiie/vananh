@@ -19,7 +19,11 @@ def main():
     
     if not app_path.exists():
         print(f"❌ App file not found: {app_path}")
-        return
+        print("💡 Will create a simple test interface...")
+        
+        # Create simple test interface if not exists
+        app_path.parent.mkdir(exist_ok=True)
+        create_simple_quiz_interface(app_path)
     
     # Set environment
     env = os.environ.copy()
@@ -48,6 +52,40 @@ def main():
         print("\n💡 Alternative commands:")
         print(f"cd {test_dir}")
         print("streamlit run ui/quiz_test_interface.py --server.port 8503")
+
+def create_simple_quiz_interface(app_path):
+    """Tạo giao diện test đơn giản nếu chưa có."""
+    content = '''
+import streamlit as st
+
+st.set_page_config(
+    page_title="QuizForce AI - Quiz Test",
+    page_icon="📝",
+    layout="wide"
+)
+
+st.title("📝 QuizForce AI - Quiz Test Interface")
+st.info("🚧 Giao diện này đang được phát triển...")
+
+st.markdown("""
+### 🎯 Tính năng sẽ có:
+- ✅ Làm bài kiểm tra trực tuyến
+- ✅ Hỗ trợ nhiều chế độ (exam/practice)
+- ✅ Timer tự động
+- ✅ Chấm điểm và thống kê
+
+### 📝 Hiện tại:
+Vui lòng sử dụng giao diện chính tại: **http://localhost:8502**
+""")
+
+if st.button("🏠 Về Trang Chính"):
+    st.markdown("Truy cập: http://localhost:8502")
+'''
+    
+    with open(app_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    
+    print(f"✅ Created simple interface at: {app_path}")
 
 if __name__ == "__main__":
     main()

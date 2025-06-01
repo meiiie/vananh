@@ -1,0 +1,3063 @@
+[
+  {
+    "so_cau": 1,
+    "cau_hoi": "Trong môi trường làm việc, yếu tố nào có thể gây hạn chế tầm nhìn của người công nhân?",
+    "lua_chon": {
+      "A": "Ánh sáng quá mạnh",
+      "B": "Không gian làm việc rộng rãi",
+      "C": "Sử dụng kính bảo hộ chất lượng cao",
+      "D": "Bụi bẩn, khói hoặc vật cản"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:41"
+  },
+  {
+    "so_cau": 2,
+    "cau_hoi": "Hành vi nào sau đây bị coi là vi phạm quy định về an toàn lao động trong xây dựng?",
+    "lua_chon": {
+      "A": "Không lắp đặt thiết bị ngăn ngừa rơi (dây an toàn, lưới an toàn...)",
+      "B": "Đeo đầy đủ trang bị bảo hộ lao động theo quy định.",
+      "C": "Tuân thủ nghiêm ngặt quy trình vận hành máy móc.",
+      "D": "Thực hiện kiểm tra an toàn trước khi bắt đầu công việc."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "GiaoDucPhapLuat",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:43"
+  },
+  {
+    "so_cau": 3,
+    "cau_hoi": "Hành vi nào sau đây vi phạm quy định về an toàn lao động?",
+    "lua_chon": {
+      "A": "Sử dụng thiết bị bảo hộ lao động đầy đủ.",
+      "B": "Tuân thủ các quy trình an toàn.",
+      "C": "Báo cáo kịp thời các sự cố.",
+      "D": "Không mang thiết bị bảo hộ lao động."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_dai_cuong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:44"
+  },
+  {
+    "so_cau": 4,
+    "cau_hoi": "Những hành động nào sau đây giúp phòng ngừa rủi ro khi làm việc trên cao?",
+    "lua_chon": {
+      "A": "Lựa chọn 2 và 3",
+      "B": "Lựa chọn 2, 3 và 4",
+      "C": "Lựa chọn 3 và 4",
+      "D": "Lựa chọn 1, 3 và 4"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:45"
+  },
+  {
+    "so_cau": 5,
+    "cau_hoi": "An toàn vệ sinh lao động mang tính pháp luật thể hiện ở tất cả các quy định nào?",
+    "lua_chon": {
+      "A": "Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn.",
+      "B": "Tiêu chuẩn vệ sinh lao động trong quá trình lao động sản xuất.",
+      "C": "Các quy định về tổ chức lao động.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục công dân",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:47"
+  },
+  {
+    "so_cau": 6,
+    "cau_hoi": "An toàn vệ sinh lao động mang tính pháp luật thể hiện ở các quy định nào sau đây? (1) Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn; (2) Tiêu chuẩn vệ sinh lao động trong quá trình lao động sản xuất; (3) Các quy định về tổ chức lao động.",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 3"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục công dân",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:48"
+  },
+  {
+    "so_cau": 7,
+    "cau_hoi": "An toàn vệ sinh lao động mang tính khoa học công nghệ bao gồm:",
+    "lua_chon": {
+      "A": "Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn",
+      "B": "Tiêu chuẩn vệ sinh lao động trong quá trình lao động sản xuất",
+      "C": "Khoa học kỹ thuật về bảo hộ lao động gắn liền với khoa học công nghệ sản xuất",
+      "D": "Tất cả đáp án trên đều đúng"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:50"
+  },
+  {
+    "so_cau": 8,
+    "cau_hoi": "Công tác An toàn Vệ sinh Lao động (ATVSLĐ) mang tính khoa học công nghệ phụ thuộc rất lớn vào yếu tố nào?",
+    "lua_chon": {
+      "A": "Trình độ công nghệ sản xuất của xã hội.",
+      "B": "Các quy định về tổ chức lao động.",
+      "C": "Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn.",
+      "D": "Tiêu chuẩn vệ sinh lao động trong quá trình lao động sản xuất."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:51"
+  },
+  {
+    "so_cau": 9,
+    "cau_hoi": "Tính quần chúng của công tác an toàn vệ sinh lao động thể hiện ở khía cạnh nào sau đây?",
+    "lua_chon": {
+      "A": "Quần chúng lao động là những người trực tiếp thực hiện quy phạm, quy trình.",
+      "B": "Biện pháp kỹ thuật an toàn, cải thiện điều kiện làm việc.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:53"
+  },
+  {
+    "so_cau": 10,
+    "cau_hoi": "Tính quần chúng của công tác an toàn vệ sinh lao động thể hiện ở những khía cạnh nào sau đây?",
+    "lua_chon": {
+      "A": "(1) Quần chúng lao động là những người trực tiếp thực hiện quy phạm, quy trình; (2) Biện pháp kỹ thuật an toàn, cải thiện điều kiện làm việc; (3) Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn.",
+      "B": "(2) Biện pháp kỹ thuật an toàn, cải thiện điều kiện làm việc; (3) Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn.",
+      "C": "(1) Quần chúng lao động là những người trực tiếp thực hiện quy phạm, quy trình; (2) Biện pháp kỹ thuật an toàn, cải thiện điều kiện làm việc.",
+      "D": "(1) Quần chúng lao động là những người trực tiếp thực hiện quy phạm, quy trình; (3) Quy phạm, quy trình, tiêu chuẩn kỹ thuật an toàn."
+    },
+    "dap_an": "AC",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:55"
+  },
+  {
+    "so_cau": 11,
+    "cau_hoi": "Kỹ thuật an toàn là một hệ thống gồm có những yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "Các phương tiện kỹ thuật và nội quy, quy trình, quy phạm",
+      "B": "Các thao tác làm việc và nội quy, quy trình, quy phạm",
+      "C": "Các phương tiện kỹ thuật, các thao tác làm việc và nội quy, quy trình, quy phạm",
+      "D": "Các phương tiện kỹ thuật và các thao tác làm việc"
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:56"
+  },
+  {
+    "so_cau": 12,
+    "cau_hoi": "Công tác an toàn vệ sinh lao động phụ thuộc rất lớn vào:",
+    "lua_chon": {
+      "A": "Trình độ công nghệ sản xuất của xã hội.",
+      "B": "Sự tiến bộ của khoa học công nghệ.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Các quy định và biện pháp bảo hộ lao động."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "GDQP-AN",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:58"
+  },
+  {
+    "so_cau": 13,
+    "cau_hoi": "Muốn thực hiện tốt công tác an toàn vệ sinh lao động, chúng ta phải:",
+    "lua_chon": {
+      "A": "Tổ chức nghiên cứu khoa học kỹ thuật bảo hộ lao động, gắn liền với việc nghiên cứu cải tiến trang bị, cải tiến kỹ thuật công nghệ sản xuất.",
+      "B": "Nghiên cứu những vấn đề về kỹ thuật an toàn, cải thiện điều kiện làm việc.",
+      "C": "Nghiên cứu đưa vào chương trình tiến bộ kỹ thuật, công nghệ để huy động đông đảo cán bộ và người lao động tham gia.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Kỹ thuật/An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:38:59"
+  },
+  {
+    "so_cau": 14,
+    "cau_hoi": "Tai nạn lao động không bao gồm hình thức nào sau đây?",
+    "lua_chon": {
+      "A": "Chấn thương",
+      "B": "Nhiễm độc nghề nghiệp",
+      "C": "Bệnh nghề nghiệp",
+      "D": "Bẩm sinh"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "GDCD",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:01"
+  },
+  {
+    "so_cau": 15,
+    "cau_hoi": "Câu 15: Kĩ thuật an toàn lao động là gì?\nLà giải pháp phòng, chống tác động của các yếu tố nguy hiểm nhằm đảm bảo không xảy ra thương tật, tử vong đối với con người trong quá trình lao động.\nLà không xảy ra tai nạn lao động và bệnh nghề nghiệp.\nLà giải pháp phòng, chống tác động của yếu tố có hại gây bệnh tật, làm suy giảm sức khỏe cho con người trong quá trình lao động.\nLà các biện pháp đảm bảo quyền lợi cho người lao động.",
+    "lua_chon": {
+      "A": "Option A",
+      "B": "Option B",
+      "C": "Option C",
+      "D": "Option D"
+    },
+    "dap_an": "A",
+    "do_kho": "can_xu_ly",
+    "mon_hoc": "unknown",
+    "ghi_chu": "Auto-generated by QuizMaster AI Pro Enhanced - Needs review",
+    "is_fallback": true,
+    "fallback_reason": "[AUTO-GENERATED] Needs manual review",
+    "created_time": "2025-06-01 22:39:02",
+    "has_images": false
+  },
+  {
+    "so_cau": 16,
+    "cau_hoi": "Vệ sinh lao động là gì?",
+    "lua_chon": {
+      "A": "Vệ sinh lao động là giải pháp phòng, chống tác động của các yếu tố nguy hiểm nhằm bảo đảm không xảy ra thương tật, tử vong đối với con người trong quá trình lao động.",
+      "B": "Vệ sinh lao động là giải pháp an toàn nhất trong quá trình lao động.",
+      "C": "Vệ sinh lao động là giải pháp phòng, chống tác động của yếu tố có hại gây bệnh tật, làm suy giảm sức khỏe cho con người trong quá trình lao động.",
+      "D": "Vệ sinh lao động là việc đảm bảo không xảy ra tai nạn lao động."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc Quoc phong - An ninh",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:04"
+  },
+  {
+    "so_cau": 17,
+    "cau_hoi": "Yếu tố nguy hiểm là gì?",
+    "lua_chon": {
+      "A": "Yếu tố nguy hiểm là yếu tố gây mất an toàn, làm tổn thương hoặc gây tử vong cho con người trong quá trình lao động.",
+      "B": "Yếu tố nguy hiểm là yếu tố có thể gây ra tai nạn lao động và bệnh nghề nghiệp.",
+      "C": "Yếu tố nguy hiểm là yếu tố gây ra cháy, nổ, mất an toàn lao động.",
+      "D": "Yếu tố nguy hiểm là yếu tố có hại."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:46"
+  },
+  {
+    "so_cau": 18,
+    "cau_hoi": "Yếu tố có hại được định nghĩa như thế nào?",
+    "lua_chon": {
+      "A": "Yếu tố gây mất an toàn, tổn thương hoặc tử vong cho con người trong quá trình lao động.",
+      "B": "Yếu tố gây bệnh tật, làm suy giảm sức khỏe con người trong quá trình lao động.",
+      "C": "Yếu tố tác động làm người lao động bị bệnh nghề nghiệp sau quá trình lao động.",
+      "D": "Yếu tố gây ra cháy, nổ, mất an toàn lao động."
+    },
+    "dap_an": "AB",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:48"
+  },
+  {
+    "so_cau": 19,
+    "cau_hoi": "Sự cố kỹ thuật gây mất an toàn, vệ sinh lao động là gì?",
+    "lua_chon": {
+      "A": "Việc gây ra cháy, nổ, tai nạn lao động.",
+      "B": "Hư hỏng của máy, thiết bị, vật tư xảy ra trong quá trình lao động và gây thiệt hại hoặc có nguy cơ gây thiệt hại cho con người, tài sản và môi trường.",
+      "C": "Thiết bị lạc hậu trong quá trình sản xuất gây ra tai nạn lao động.",
+      "D": "Tất cả các câu trên đều sai."
+    },
+    "dap_an": "BD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced. Đáp án B chính xác nhất vì bao quát và đúng định nghĩa về sự cố kỹ thuật trong an toàn lao động.",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:50"
+  },
+  {
+    "so_cau": 20,
+    "cau_hoi": "Thế nào là tai nạn lao động?",
+    "lua_chon": {
+      "A": "Tai nạn lao động là tai nạn gây tổn thương cho bất kì bộ phận, chức năng nào của cơ thể, gây tử vong cho người lao động, xảy ra trong quá trình lao động, gắn liền với việc thực hiện công việc, nhiệm vụ lao động.",
+      "B": "Tai nạn lao động là tai nạn gây tổn thương cho người lao động có tỷ lệ thương tật từ 5 đến 10%.",
+      "C": "Tai nạn lao động là tai nạn gây tổn thương cho người lao động trong quá trình lao động ngẫu nhiên.",
+      "D": "Tai nạn lao động là các tình huống tai nạn gây chấn thương hoặc tử vong cho người lao động."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:51"
+  },
+  {
+    "so_cau": 21,
+    "cau_hoi": "Công tác An toàn Vệ sinh Lao động (ATVSLĐ) bao gồm những nội dung chủ yếu nào?",
+    "lua_chon": {
+      "A": "Tiêu chuẩn vệ sinh lao động trong quá trình lao động sản xuất.",
+      "B": "Kỹ thuật an toàn, vệ sinh lao động, các chính sách, chế độ bảo hộ lao động.",
+      "C": "Các quy định về tổ chức lao động.",
+      "D": "Tất cả các đáp án trên đều đúng."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:53"
+  },
+  {
+    "so_cau": 22,
+    "cau_hoi": "Nguyên nhân nào gây ra tai nạn lao động (TNLĐ) trong quá trình lao động?",
+    "lua_chon": {
+      "A": "Người lao động chưa được huấn luyện an toàn vệ sinh lao động (ATVSLĐ), vi phạm các quy định về ATVSLĐ, điều kiện lao động không đảm bảo tiêu chuẩn vệ sinh lao động.",
+      "B": "Do trạng thái tâm sinh lý hoặc ý thức của người lao động, không trang bị bảo vệ cá nhân hoặc trang bị không đầy đủ và đúng chất lượng.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan/An toan lao dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:55"
+  },
+  {
+    "so_cau": 23,
+    "cau_hoi": "Nội dung chủ yếu của kỹ thuật an toàn là:",
+    "lua_chon": {
+      "A": "Xác định vùng nguy hiểm.",
+      "B": "Xác định các biện pháp về quản lí, tổ chức và thao tác làm việc đảm bảo an toàn.",
+      "C": "Sử dụng các thiết bị an toàn thích ứng: thiết bị che chắn, thiết bị phòng ngừa, thiết bị bảo hiểm, tín hiệu, báo hiệu, trang bị bảo vệ cá nhân…",
+      "D": "Tất cả đều đúng"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:56"
+  },
+  {
+    "so_cau": 24,
+    "cau_hoi": "Nội dung chủ yếu của vệ sinh lao động là gì?",
+    "lua_chon": {
+      "A": "Xác định khoảng cách an toàn về vệ sinh",
+      "B": "Xác định các yếu tố có hại về sức khỏe",
+      "C": "Biện pháp về sinh học, vệ sinh cá nhân, vệ sinh môi trường",
+      "D": "Tất cả các đáp án trên đều đúng"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục công dân",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:39:58"
+  },
+  {
+    "so_cau": 25,
+    "cau_hoi": "Nội dung chủ yếu của vệ sinh lao động bao gồm các ý nào sau đây?",
+    "lua_chon": {
+      "A": "1, 2, 3, 4 (Xác định khoảng cách an toàn về vệ sinh, các yếu tố có hại về sức khỏe, biện pháp về sinh học, vệ sinh cá nhân, vệ sinh môi trường, và vùng nguy hiểm)",
+      "B": "2, 3, 4 (Xác định các yếu tố có hại về sức khỏe, biện pháp về sinh học, vệ sinh cá nhân, vệ sinh môi trường, và vùng nguy hiểm)",
+      "C": "1, 2, 3 (Xác định khoảng cách an toàn về vệ sinh, các yếu tố có hại về sức khỏe, và biện pháp về sinh học, vệ sinh cá nhân, vệ sinh môi trường)",
+      "D": "1, 2, 4 (Xác định khoảng cách an toàn về vệ sinh, các yếu tố có hại về sức khỏe, và vùng nguy hiểm)"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục Quốc phòng - An ninh",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:00"
+  },
+  {
+    "so_cau": 26,
+    "cau_hoi": "Các biện pháp kỹ thuật vệ sinh phải được quán triệt ngay từ khâu nào?",
+    "lua_chon": {
+      "A": "Thiết kế, xây dựng các công trình nhà xưởng.",
+      "B": "Tổ chức nơi sản xuất.",
+      "C": "Thiết kế, chế tạo các máy móc, thiết bị, quá trình công nghệ.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:01"
+  },
+  {
+    "so_cau": 27,
+    "cau_hoi": "Các chính sách, chế độ An toàn vệ sinh lao động (ATVSLĐ) chủ yếu bao gồm:",
+    "lua_chon": {
+      "A": "Các biện pháp kinh tế xã hội, tổ chức quản lý, cơ chế quản lý công tác lao động.",
+      "B": "Chế độ nhằm đảm bảo sử dụng sức lao động hợp lý, khoa học.",
+      "C": "Bồi dưỡng phục hồi sức lao động, thời giờ làm việc, thời giờ nghỉ ngơi.",
+      "D": "Tất cả các đáp án trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:03"
+  },
+  {
+    "so_cau": 28,
+    "cau_hoi": "Trong quá trình sản xuất, cần thường xuyên quan tâm theo dõi các vấn đề nào sau đây?",
+    "lua_chon": {
+      "A": "Sự phát sinh các yếu tố có hại, thực hiện các biện pháp giảm thiểu yếu tố có hại, đảm bảo tiêu chuẩn vệ sinh cho phép.",
+      "B": "Xác định vùng nguy hiểm.",
+      "C": "Xác định khoảng cách an toàn về vệ sinh.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:04"
+  },
+  {
+    "so_cau": 29,
+    "cau_hoi": "Hãy nêu các biện pháp cơ bản về kỹ thuật an toàn nhằm đảm bảo an toàn và phòng ngừa tai nạn lao động:",
+    "lua_chon": {
+      "A": "Thiết bị che chắn; thiết bị bảo hiểm phòng ngừa; khoảng cách an toàn; trang bị phương tiện bảo vệ cá nhân.",
+      "B": "Cơ cấu điều khiển, phanh hãm, điều khiển từ xa; tín hiệu, báo hiệu.",
+      "C": "Thiết bị an toàn riêng biệt; phòng cháy, chữa cháy.",
+      "D": "Tất cả các câu trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:06"
+  },
+  {
+    "so_cau": 30,
+    "cau_hoi": "Trong quá trình làm việc, nếu phát hiện các hiện tượng bất thường có nguy cơ gây mất an toàn, người công nhân phải xử lý như thế nào?",
+    "lua_chon": {
+      "A": "Tiếp tục công việc và báo cáo cấp có thẩm quyền để xin ý kiến giải quyết.",
+      "B": "Dừng ngay công việc, chủ động xử lý các hiện tượng bất thường, giảm thiểu nguy cơ mất an toàn cho bản thân và người khác.",
+      "C": "Dừng ngay công việc và báo cáo người phụ trách trực tiếp để xin ý kiến giải quyết.",
+      "D": "Dừng ngay công việc và báo cáo người sử dụng lao động để có biện pháp xử lý."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:07"
+  },
+  {
+    "so_cau": 31,
+    "cau_hoi": "Các yếu tố nguy hiểm nào có nguy cơ gây tai nạn lao động trong sản xuất?",
+    "lua_chon": {
+      "A": "Hóa chất độc, nguồn nhiệt, nguồn điện, nổ vật lý, nổ hóa học, yếu tố vi khí hậu xấu, vi sinh vật có hại, bức xạ và phóng xạ.",
+      "B": "Vật văng bắn, vật rơi/đổ/sập, các bộ phận truyền động và chuyển động, nguồn nhiệt, nguồn điện, nổ.",
+      "C": "Vật văng bắn, vật rơi/đổ/sập, tiếng ồn và rung động, bức xạ và phóng xạ, yếu tố vi khí hậu xấu.",
+      "D": "Vật văng bắn, bức xạ và phóng xạ, vật rơi/đổ/sập, bụi, ồn, hóa chất, yếu tố vi khí hậu xấu, vi sinh vật có hại."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:09"
+  },
+  {
+    "so_cau": 32,
+    "cau_hoi": "Những công việc có yêu cầu nghiêm ngặt về an toàn lao động, vệ sinh lao động bao gồm những công việc nào sau đây: (1) Có sử dụng máy móc, thiết bị dễ gây ra tai nạn lao động; (2) Làm việc trong các điều kiện độc hại, nguy hiểm như làm việc trên cao, ở gần hoặc tiếp xúc với các hóa chất dễ cháy nổ, chất độc; (3) Quy trình thao tác bảo đảm an toàn.",
+    "lua_chon": {
+      "A": "1, 2",
+      "B": "1, 3",
+      "C": "2, 3",
+      "D": "1, 2, 3"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "GDCD",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:53"
+  },
+  {
+    "so_cau": 33,
+    "cau_hoi": "Nguyên nhân gây ra tai nạn lao động (TNLĐ) trong quá trình lao động là:",
+    "lua_chon": {
+      "A": "Người lao động chưa được huấn luyện an toàn vệ sinh lao động (ATVSLĐ), vi phạm các quy định về ATVSLĐ, điều kiện lao động không bảo đảm tiêu chuẩn vệ sinh lao động.",
+      "B": "Do trạng thái tâm sinh lý hoặc ý thức của người lao động, không trang bị bảo vệ cá nhân hoặc trang bị không đầy đủ và đúng chất lượng.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:54"
+  },
+  {
+    "so_cau": 34,
+    "cau_hoi": "Mục đích của việc khám sức khỏe định kì là:",
+    "lua_chon": {
+      "A": "Phát hiện triệu chứng, dấu hiệu bệnh lý liên quan đến nghề nghiệp",
+      "B": "Phát hiện sớm bệnh nghề nghiệp và kịp thời điều trị, tổ chức dự phòng bệnh nghề nghiệp",
+      "C": "Theo dõi những người có bệnh mãn tính, có sức khỏe yếu để có kế hoạch đưa đi điều dưỡng phục hồi chức năng",
+      "D": "Tất cả đều đúng"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "y_te",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:56"
+  },
+  {
+    "so_cau": 35,
+    "cau_hoi": "Các nguyên nhân nào sau đây có thể gây tai nạn lao động (TNLĐ) được quy định tại Thông tư liên tịch số 12/2012/TTLT-BLĐTBXH-BYT ngày 21/5/2012?",
+    "lua_chon": {
+      "A": "Không có thiết bị an toàn hoặc thiết bị an toàn không bảo đảm; Chưa huấn luyện hoặc huấn luyện ATVSLĐ chưa đầy đủ.",
+      "B": "Chưa huấn luyện hoặc huấn luyện ATVSLĐ chưa đầy đủ; Không có quy trình an toàn hoặc biện pháp làm việc an toàn.",
+      "C": "Không có thiết bị an toàn hoặc thiết bị an toàn không bảo đảm; Không có quy trình an toàn hoặc biện pháp làm việc an toàn.",
+      "D": "Không có thiết bị an toàn hoặc thiết bị an toàn không bảo đảm; Chưa huấn luyện hoặc huấn luyện ATVSLĐ chưa đầy đủ; Không có quy trình an toàn hoặc biện pháp làm việc an toàn."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:40:58"
+  },
+  {
+    "so_cau": 36,
+    "cau_hoi": "Đối tượng nào sau đây thuộc đối tượng áp dụng của Luật An toàn, vệ sinh lao động?",
+    "lua_chon": {
+      "A": "Người lao động làm việc theo hợp đồng lao động, người thử việc, người học nghề/tập nghề và cán bộ, công chức, viên chức, người thuộc lực lượng vũ trang nhân dân.",
+      "B": "Người lao động làm việc không theo hợp đồng lao động; người lao động Việt Nam đi làm việc tại nước ngoài theo hợp đồng; người lao động nước ngoài làm việc tại Việt Nam.",
+      "C": "Người sử dụng lao động; cơ quan, tổ chức và cá nhân khác có liên quan đến công tác an toàn, vệ sinh lao động.",
+      "D": "Tất cả các đối tượng trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:00"
+  },
+  {
+    "so_cau": 37,
+    "cau_hoi": "Ai có nghĩa vụ chính trong việc xây dựng, ban hành và tổ chức thực hiện nội quy, quy trình bảo đảm an toàn, vệ sinh lao động?",
+    "lua_chon": {
+      "A": "Ban Chấp hành công đoàn cơ sở doanh nghiệp.",
+      "B": "Cán bộ phụ trách an toàn, vệ sinh lao động.",
+      "C": "Người sử dụng lao động tại doanh nghiệp.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:01"
+  },
+  {
+    "so_cau": 38,
+    "cau_hoi": "Nghĩa vụ của người sử dụng lao động là:",
+    "lua_chon": {
+      "A": "Hằng năm khi xây dựng kế hoạch sản xuất kinh doanh, doanh nghiệp phải lập kế hoạch, biện pháp an toàn lao động, vệ sinh lao động và cải thiện điều kiện lao động.",
+      "B": "Chấp hành các quy định, nội quy về an toàn - vệ sinh lao động có liên quan đến công việc, nhiệm vụ được giao.",
+      "C": "Cả A và B đều sai.",
+      "D": "Cả A và B đều đúng."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:03"
+  },
+  {
+    "so_cau": 39,
+    "cau_hoi": "Người sử dụng lao động có trách nhiệm:",
+    "lua_chon": {
+      "A": "Phân công trách nhiệm và cử người giám sát việc thực hiện các quy định, nội quy, biện pháp an toàn lao động, vệ sinh lao động trong doanh nghiệp.",
+      "B": "Phối hợp với Công đoàn cơ sở xây dựng và duy trì sự hoạt động của mạng lưới an toàn viên và vệ sinh viên.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục công dân",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:04"
+  },
+  {
+    "so_cau": 40,
+    "cau_hoi": "Quyền của người sử dụng lao động:",
+    "lua_chon": {
+      "A": "Buộc người lao động phải tuân thủ các quy định, nội quy, biện pháp ATVSLĐ.",
+      "B": "Khen thưởng người chấp hành tốt và kỷ luật người vi phạm trong việc thực hiện ATVSLĐ.",
+      "C": "Khiếu nại với cơ quan Nhà nước có thẩm quyền về quyết định của Thanh tra về ATVSLĐ, nhưng vẫn phải chấp hành các quyết định đó khi chưa có quyết định mới.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:06"
+  },
+  {
+    "so_cau": 41,
+    "cau_hoi": "Quyền của người sử dụng lao động bao gồm các ý nào sau đây:",
+    "lua_chon": {
+      "A": "(1), (2), (3)",
+      "B": "(2), (3)",
+      "C": "(1), (3), (4)",
+      "D": "(1), (2), (3), (4)"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Pháp luật Lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:08"
+  },
+  {
+    "so_cau": 42,
+    "cau_hoi": "Quyền nào sau đây thuộc về người lao động theo yêu cầu của người sử dụng lao động?",
+    "lua_chon": {
+      "A": "Bảo đảm điều kiện làm việc an toàn, vệ sinh và cải thiện điều kiện lao động.",
+      "B": "Trang bị, cung cấp đầy đủ phương tiện bảo vệ cá nhân.",
+      "C": "Huấn luyện, thực hiện biện pháp an toàn lao động, vệ sinh lao động.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:09"
+  },
+  {
+    "so_cau": 43,
+    "cau_hoi": "Quyền của người lao động bao gồm những nội dung nào sau đây?",
+    "lua_chon": {
+      "A": "(1) Bảo đảm điều kiện làm việc an toàn, vệ sinh, cải thiện điều kiện lao động; (2) Khen thưởng người chấp hành tốt và kỷ luật người vi phạm trong việc thực hiện ATVSLĐ; (3) Trang bị, cung cấp đầy đủ phương tiện bảo vệ cá nhân.",
+      "B": "(2) Khen thưởng người chấp hành tốt và kỷ luật người vi phạm trong việc thực hiện ATVSLĐ; (3) Trang bị, cung cấp đầy đủ phương tiện bảo vệ cá nhân.",
+      "C": "(1) Bảo đảm điều kiện làm việc an toàn, vệ sinh, cải thiện điều kiện lao động; (3) Trang bị, cung cấp đầy đủ phương tiện bảo vệ cá nhân; (4) Huấn luyện, thực hiện các biện pháp an toàn lao động, vệ sinh lao động.",
+      "D": "(1) Bảo đảm điều kiện làm việc an toàn, vệ sinh, cải thiện điều kiện lao động; (2) Khen thưởng người chấp hành tốt và kỷ luật người vi phạm trong việc thực hiện ATVSLĐ; (3) Trang bị, cung cấp đầy đủ phương tiện bảo vệ cá nhân; (4) Huấn luyện, thực hiện các biện pháp an toàn lao động, vệ sinh lao động."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao_duc_cong_dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:12"
+  },
+  {
+    "so_cau": 44,
+    "cau_hoi": "Công đoàn là tổ chức đại diện cho:",
+    "lua_chon": {
+      "A": "Người lao động.",
+      "B": "Người sử dụng lao động.",
+      "C": "Đại diện cho pháp luật.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giáo dục công dân",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:13"
+  },
+  {
+    "so_cau": 45,
+    "cau_hoi": "Trách nhiệm và quyền hạn của tổ chức Công đoàn là:",
+    "lua_chon": {
+      "A": "Công đoàn cơ sở thay mặt cho người lao động ký thoả ước lao động tập thể với người sử dụng lao động.",
+      "B": "Tiến hành kiểm tra việc chấp hành pháp luật, chế độ chính sách về bảo hộ lao động.",
+      "C": "Cử đại diện tham gia vào các đoàn điều tra tai nạn lao động.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:15"
+  },
+  {
+    "so_cau": 46,
+    "cau_hoi": "Vi phạm các quy định về an toàn lao động có thể bị truy cứu trách nhiệm hình sự theo Bộ luật Hình sự khi:",
+    "lua_chon": {
+      "A": "Vệ sinh lao động gây thiệt hại cho tính mạng.",
+      "B": "Gây thiệt hại nghiêm trọng cho sức khỏe người khác.",
+      "C": "Gây tổn thất lớn về tài sản, của cải vật chất.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:16"
+  },
+  {
+    "so_cau": 47,
+    "cau_hoi": "Khi thấy nguy cơ xảy ra tai nạn lao động, đe dọa nghiêm trọng tính mạng, sức khỏe của mình, người lao động phải làm gì?",
+    "lua_chon": {
+      "A": "Từ chối làm công việc hoặc rời bỏ nơi làm việc.",
+      "B": "Từ chối trở lại nơi làm việc nếu những nguy cơ đó chưa được khắc phục.",
+      "C": "Phải báo cáo ngay với người phụ trách trực tiếp.",
+      "D": "Tất cả các câu trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:41:18"
+  },
+  {
+    "so_cau": 48,
+    "cau_hoi": "Khi thấy nguy cơ xảy ra tai nạn lao động, đe dọa nghiêm trọng tính mạng, sức khỏe của mình, người lao động phải làm gì?",
+    "lua_chon": {
+      "A": "Từ chối công việc hoặc rời bỏ nơi làm việc, từ chối trở lại nơi làm việc nếu những nguy cơ đó chưa được khắc phục, phải báo cáo ngay với người phụ trách trực tiếp.",
+      "B": "Từ chối trở lại nơi làm việc nếu những nguy cơ đó chưa được khắc phục, phải báo cáo ngay với người phụ trách trực tiếp.",
+      "C": "Từ chối công việc hoặc rời bỏ nơi làm việc, từ chối trở lại nơi làm việc nếu những nguy cơ đó chưa được khắc phục, phải báo cáo ngay với người phụ trách trực tiếp, ra lệnh tạm thời đình chỉ (nếu thấy khẩn cấp).",
+      "D": "Từ chối trở lại nơi làm việc nếu những nguy cơ đó chưa được khắc phục, phải báo cáo ngay với người phụ trách trực tiếp, ra lệnh tạm thời đình chỉ (nếu thấy khẩn cấp)."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:00"
+  },
+  {
+    "so_cau": 49,
+    "cau_hoi": "Nhà nước quy định cán bộ công tác ATVSLĐ (An toàn Vệ sinh Lao động) được sự chỉ đạo trực tiếp của:",
+    "lua_chon": {
+      "A": "Người sử dụng lao động",
+      "B": "Trưởng phòng kỹ thuật",
+      "C": "Trưởng phòng tổ chức lao động",
+      "D": "Trưởng bộ phận An toàn Vệ sinh lao động"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Luật Lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:02"
+  },
+  {
+    "so_cau": 50,
+    "cau_hoi": "Trường hợp nào sau đây được xét là tai nạn lao động (TNLĐ) theo quy định tại Thông tư liên tịch số 12/2012/TTLT-BLĐTBXH-BYT ngày 21/5/2012?",
+    "lua_chon": {
+      "A": "Người lao động gặp tai nạn khi đi từ nơi ở đến nơi làm việc, từ nơi làm việc về nơi ở vào thời gian và tại địa điểm hợp lý (trên tuyến đường đi thường xuyên hằng ngày).",
+      "B": "Người lao động gặp tai nạn do những nguyên nhân khách quan như thiên tai, hỏa hoạn… khi thực hiện các công việc ngoài nhiệm vụ lao động được phân công.",
+      "C": "Người lao động gặp tai nạn giao thông ở gần cơ quan làm việc khi tham gia tiệc liên hoan tổng kết cuối năm của đơn vị.",
+      "D": "Cả A và B đều đúng."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Luật Lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:04"
+  },
+  {
+    "so_cau": 51,
+    "cau_hoi": "Trong các trường hợp sau, trường hợp nào được xét là tai nạn lao động (TNLĐ) theo quy định tại Thông tư liên tịch số 12/2012/TTLT-BLĐTBXH_BYT ngày 21/5/2012?",
+    "lua_chon": {
+      "A": "Người lao động gặp tai nạn giao thông ở gần cơ quan làm việc sau khi tham gia tiệc liên hoan tổng kết cuối năm của đơn vị.",
+      "B": "Người lao động gặp tai nạn bất ngờ trong thời gian nghỉ lao và ăn giữa ca để sau đó tiếp tục tiến hành công việc.",
+      "C": "Người lao động gặp tai nạn do những nguyên nhân khách quan như thiên tai, hỏa hoạn…khi thực hiện các công việc ngoài nhiệm vụ lao động được phân công.",
+      "D": "Câu A và C đều đúng."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "luat_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:05"
+  },
+  {
+    "so_cau": 52,
+    "cau_hoi": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động ít nhất bao nhiêu lần trong một năm?",
+    "lua_chon": {
+      "A": "Ít nhất một lần",
+      "B": "Tất cả người lao động đều được khám sức khỏe một lần",
+      "C": "Người lao động tự lo cho sức khỏe của mình",
+      "D": "Không có đáp án đúng"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Luật Lao Động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:07"
+  },
+  {
+    "so_cau": 53,
+    "cau_hoi": "Khen thưởng, xử phạt về ATVSLĐ là một yêu cầu không thể thiếu được nhằm mục đích gì?",
+    "lua_chon": {
+      "A": "Luật pháp, chế độ, chính sách về ATVSLĐ được chấp hành thực hiện nghiêm chỉnh.",
+      "B": "Động viên kịp thời những điển hình tốt.",
+      "C": "Xử lý nghiêm và đúng những tập thể, cá nhân vi phạm các quy định về ATVSLĐ.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Giao duc cong dan",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:08"
+  },
+  {
+    "so_cau": 54,
+    "cau_hoi": "Trong khi đi kiểm tra các nơi sản xuất, nếu phát hiện các vi phạm, các nguy cơ xảy ra tai nạn, cán bộ an toàn lao động có quyền:",
+    "lua_chon": {
+      "A": "Ra lệnh tạm thời đình chỉ công việc (nếu thấy tình huống khẩn cấp).",
+      "B": "Yêu cầu người phụ trách bộ phận ra lệnh đình chỉ công việc để thi hành các biện pháp cần thiết bảo đảm an toàn lao động, đồng thời báo cáo cho người sử dụng lao động.",
+      "C": "Chủ động rời khỏi nơi làm việc.",
+      "D": "Cả A và B đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:10"
+  },
+  {
+    "so_cau": 55,
+    "cau_hoi": "Trong khi đi kiểm tra các nơi sản xuất, nếu phát hiện các vi phạm, các nguy cơ xảy ra tai nạn, cán bộ an toàn lao động có quyền:",
+    "lua_chon": {
+      "A": "1, 2, 3 (Ra lệnh tạm thời đình chỉ; Yêu cầu người phụ trách ra lệnh đình chỉ; Chủ động rời khỏi nơi làm việc)",
+      "B": "2, 3 (Yêu cầu người phụ trách ra lệnh đình chỉ; Chủ động rời khỏi nơi làm việc)",
+      "C": "1, 2 (Ra lệnh tạm thời đình chỉ; Yêu cầu người phụ trách ra lệnh đình chỉ)",
+      "D": "1, 3 (Ra lệnh tạm thời đình chỉ; Chủ động rời khỏi nơi làm việc)"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:12"
+  },
+  {
+    "so_cau": 56,
+    "cau_hoi": "Vệ sinh lao động là môn khoa học nghiên cứu những yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "Các yếu tố có hại trong sản xuất đối với sức khỏe người lao động và tìm các biện pháp cải thiện điều kiện lao động.",
+      "B": "Phòng ngừa các bệnh nghề nghiệp.",
+      "C": "Nâng cao khả năng lao động cho người lao động.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:13"
+  },
+  {
+    "so_cau": 57,
+    "cau_hoi": "Vệ sinh lao động là môn khoa học nghiên cứu những yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "1, 2, 3, 4 (Các yếu tố có hại, phòng ngừa bệnh nghề nghiệp, nâng cao khả năng lao động, chữa trị bệnh nghề nghiệp)",
+      "B": "1, 2, 3 (Các yếu tố có hại, phòng ngừa bệnh nghề nghiệp, nâng cao khả năng lao động)",
+      "C": "1, 3, 4 (Các yếu tố có hại, nâng cao khả năng lao động, chữa trị bệnh nghề nghiệp)",
+      "D": "2, 3, 4 (Phòng ngừa bệnh nghề nghiệp, nâng cao khả năng lao động, chữa trị bệnh nghề nghiệp)"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:15"
+  },
+  {
+    "so_cau": 58,
+    "cau_hoi": "Nội dung chủ yếu của môn vệ sinh lao động không bao gồm:",
+    "lua_chon": {
+      "A": "Xác định các yếu tố nguy hiểm.",
+      "B": "Xác định các yếu tố có hại về sức khỏe.",
+      "C": "Biện pháp về sinh học, vệ sinh cá nhân, vệ sinh môi trường.",
+      "D": "Xác định khoảng cách an toàn về vệ sinh."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:16"
+  },
+  {
+    "so_cau": 59,
+    "cau_hoi": "Chọn câu sai: Nội dung của môn vệ sinh lao động bao gồm:",
+    "lua_chon": {
+      "A": "Nghiên cứu đặc điểm vệ sinh của các quá trình sản xuất.",
+      "B": "Nghiên cứu việc chữa trị các loại bệnh nghề nghiệp.",
+      "C": "Nghiên cứu việc tổ chức lao động và nghỉ ngơi hợp lý.",
+      "D": "Nghiên cứu các biến đổi sinh lý, sinh hóa của cơ thể."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "y_te",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:18"
+  },
+  {
+    "so_cau": 60,
+    "cau_hoi": "Các biện pháp nào sau đây thuộc về kỹ thuật vệ sinh?",
+    "lua_chon": {
+      "A": "Kỹ thuật thông gió, điều hòa nhiệt độ, chống bụi, khí độc, chống tiếng ồn và rung xóc, chiếu sáng, chống bức xạ, phóng xạ, điện từ trường.",
+      "B": "Xác định vùng nguy hiểm.",
+      "C": "Xác định các biện pháp về quản lý, tổ chức và thao tác làm việc đảm bảo an toàn.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:20"
+  },
+  {
+    "so_cau": 61,
+    "cau_hoi": "Nghiên cứu các biện pháp phòng tình trạng mệt mỏi trong lao động, hạn chế ảnh hưởng của các yếu tố tác hại nghề nghiệp trong sản xuất bao gồm những mục nào sau đây?",
+    "lua_chon": {
+      "A": "Quy định các tiêu chuẩn vệ sinh, chế độ vệ sinh xí nghiệp và cá nhân, chế độ bảo hộ lao động.",
+      "B": "Tổ chức khám tuyển và sắp xếp hợp lý công nhân vào làm ở các bộ phận sản xuất khác nhau trong xí nghiệp.",
+      "C": "Quản lý, theo dõi tình hình sức khỏe công nhân, tổ chức khám sức khỏe định kỳ, phát hiện sớm bệnh nghề nghiệp.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Khoa học sức khỏe",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:22"
+  },
+  {
+    "so_cau": 62,
+    "cau_hoi": "Chọn câu sai trong các tác hại liên quan đến quá trình sản xuất:",
+    "lua_chon": {
+      "A": "Tiếng ồn và độ rung.",
+      "B": "Bụi và các chất độc hại trong sản xuất.",
+      "C": "Thời gian làm việc liên tục và quá lâu, làm việc liên tục không nghỉ.",
+      "D": "Điều kiện vi khí hậu trong sản xuất không phù hợp (nhiệt độ, độ ẩm cao hoặc thấp, thoáng khí kém...)."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:23"
+  },
+  {
+    "so_cau": 63,
+    "cau_hoi": "Tác hại liên quan đến quá trình sản xuất bao gồm những yếu tố nào sau đây?\n(1) Tiếng ồn và độ rung.\n(2) Bụi và các chất độc hại trong sản xuất.\n(3) Thời gian làm việc liên tục và quá lâu, làm việc liên tục không nghỉ.\n(4) Điều kiện vi khí hậu trong sản xuất không phù hợp như: nhiệt độ, độ ẩm cao hoặc thấp, thoáng khí kém.",
+    "lua_chon": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2, 3",
+      "C": "1, 3, 4",
+      "D": "2, 3, 4"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:25"
+  },
+  {
+    "so_cau": 64,
+    "cau_hoi": "Tác hại nào sau đây liên quan đến tổ chức lao động?",
+    "lua_chon": {
+      "A": "Thời gian làm việc liên tục và quá lâu, không có thời gian nghỉ.",
+      "B": "Cường độ lao động quá cao, không phù hợp với sức khỏe công nhân.",
+      "C": "Sự hoạt động khẩn trương, căng thẳng quá độ của các hệ thống thần kinh và giác quan.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:36"
+  },
+  {
+    "so_cau": 65,
+    "cau_hoi": "Tác hại liên quan đến tổ chức lao động bao gồm những ý nào sau đây?\n(1) Thời gian làm việc liên tục và quá lâu, làm việc liên tục không nghỉ.\n(2) Cường độ lao động quá cao không phù hợp với tình trạng sức khỏe công nhân.\n(3) Điều kiện vi khí hậu trong sản xuất không phù hợp như: nhiệt độ, độ ẩm cao.\n(4) Sự hoạt động khẩn trương, căng thẳng quá độ của các hệ thống và giác quan như hệ thần kinh, thính giác, thị giác...",
+    "lua_chon": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3"
+    },
+    "dap_an": "BD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "giáo_dục_quốc_phòng_an_ninh",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:48"
+  },
+  {
+    "so_cau": 66,
+    "cau_hoi": "Tác hại nào sau đây liên quan đến tổ chức lao động?",
+    "lua_chon": {
+      "A": "Tiếng ồn và độ rung.",
+      "B": "Vi khuẩn, siêu vi khuẩn, ký sinh trùng và các nấm mốc gây bệnh.",
+      "C": "Thời gian làm việc liên tục và quá lâu, làm việc liên tục không nghỉ.",
+      "D": "Bụi và các chất độc hại trong sản xuất."
+    },
+    "dap_an": "AC",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:50"
+  },
+  {
+    "so_cau": 67,
+    "cau_hoi": "Chọn câu sai trong các phát biểu sau về các yếu tố vật lý và hóa học liên quan đến quá trình sản xuất:",
+    "lua_chon": {
+      "A": "Tiếng ồn và độ rung.",
+      "B": "Điều kiện vi khí hậu trong sản xuất không phù hợp như: nhiệt độ, độ ẩm cao.",
+      "C": "Vi khuẩn, siêu vi khuẩn, ký sinh trùng và các nấm mốc gây bệnh.",
+      "D": "Bụi và các chất độc hại trong sản xuất."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:51"
+  },
+  {
+    "so_cau": 68,
+    "cau_hoi": "Các yếu tố vật lý và hóa học liên quan đến quá trình sản xuất bao gồm những yếu tố nào sau đây:\n(1) Tiếng ồn và độ rung.\n(2) Điều kiện vi khí hậu trong sản xuất.\n(3) Vi khuẩn, siêu vi khuẩn, ký sinh trùng và các nấm mốc gây bệnh.\n(4) Bụi và các chất độc hại trong sản xuất.",
+    "lua_chon": {
+      "A": "(1), (2), (3), (4)",
+      "B": "(1), (2), (4)",
+      "C": "(1), (3), (4)",
+      "D": "(1), (2), (3)"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "khoa_hoc_san_xuat",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:53"
+  },
+  {
+    "so_cau": 69,
+    "cau_hoi": "Các yếu tố vật lý và hóa học nào liên quan đến quá trình sản xuất?",
+    "lua_chon": {
+      "A": "Tiếng ồn và độ rung.",
+      "B": "Điều kiện vi khí hậu trong sản xuất không phù hợp (nhiệt độ, độ ẩm cao).",
+      "C": "Bụi và các chất độc hại trong sản xuất.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:55"
+  },
+  {
+    "so_cau": 70,
+    "cau_hoi": "Tác hại nào sau đây không liên quan trực tiếp đến tổ chức lao động?",
+    "lua_chon": {
+      "A": "Thời gian làm việc liên tục và quá lâu, không có thời gian nghỉ.",
+      "B": "Cường độ lao động quá cao, không phù hợp với sức khỏe công nhân.",
+      "C": "Sự hoạt động khẩn trương, căng thẳng quá độ của các hệ thống thần kinh và giác quan.",
+      "D": "Các yếu tố vi khí hậu xấu, chiếu sáng không hợp lý, tiếng ồn, rung động và bụi."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Kinh tế lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:56"
+  },
+  {
+    "so_cau": 71,
+    "cau_hoi": "Thiếu hoặc thừa ánh sáng hoặc sắp xếp bố trí hệ thống chiếu sáng không hợp lý là các tác hại liên quan đến:",
+    "lua_chon": {
+      "A": "Công nghệ sản xuất.",
+      "B": "Điều kiện vệ sinh và an toàn lao động.",
+      "C": "Tổ chức lao động.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:58"
+  },
+  {
+    "so_cau": 72,
+    "cau_hoi": "Phân xưởng chật chội và việc sắp xếp nơi làm việc lộn xộn, mất trật tự ngăn nắp là các tác hại liên quan đến:",
+    "lua_chon": {
+      "A": "Công nghệ sản xuất.",
+      "B": "Điều kiện vệ sinh và an toàn lao động.",
+      "C": "Tổ chức lao động.",
+      "D": "Tất cả các câu trên đều sai."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Kỹ thuật/An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:42:59"
+  },
+  {
+    "so_cau": 73,
+    "cau_hoi": "Thiếu thiết bị thông gió, chống bụi, chống nóng, chống tiếng ồn, chống hơi khí độc là các tác hại liên quan đến:",
+    "lua_chon": {
+      "A": "Công nghệ sản xuất.",
+      "B": "Điều kiện vệ sinh và an toàn lao động.",
+      "C": "Chất lượng sản phẩm.",
+      "D": "Tổ chức lao động."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Kỹ thuật và An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:01"
+  },
+  {
+    "so_cau": 74,
+    "cau_hoi": "Các yếu tố nào sau đây có thể gây bệnh nghề nghiệp cho người lao động trong quá trình sản xuất?",
+    "lua_chon": {
+      "A": "Bức xạ và phóng xạ.",
+      "B": "Tiếng ồn và rung động.",
+      "C": "Nguồn nhiệt.",
+      "D": "Bức xạ, phóng xạ, tiếng ồn và rung động."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:02"
+  },
+  {
+    "so_cau": 75,
+    "cau_hoi": "Các yếu tố nào sau đây có thể gây bệnh nghề nghiệp cho người lao động trong quá trình sản xuất?",
+    "lua_chon": {
+      "A": "Bức xạ và phóng xạ, Tiếng ồn, Rung động, Nguồn nhiệt.",
+      "B": "Bức xạ và phóng xạ, Tiếng ồn, Nguồn nhiệt, Ánh sáng.",
+      "C": "Bức xạ và phóng xạ, Tiếng ồn, Rung động, Ánh sáng.",
+      "D": "Bức xạ và phóng xạ, Tiếng ồn, Ánh sáng, Vật rơi, đổ sập."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:04"
+  },
+  {
+    "so_cau": 76,
+    "cau_hoi": "Chọn câu sai: Những yếu tố nào sau đây có nguy cơ gây bệnh nghề nghiệp trong lao động, sản xuất?",
+    "lua_chon": {
+      "A": "Các yếu tố vi khí hậu xấu; chiếu sáng không hợp lý; tiếng ồn và rung động; các loại bụi.",
+      "B": "Bức xạ và phóng xạ; áp suất cao; vi sinh vật có hại.",
+      "C": "Những hóa chất độc; nổ vật lý; nổ hóa học; vật rơi, đổ, sập.",
+      "D": "Các yếu tố về cường độ lao động, tư thế lao động không hợp lý."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:05"
+  },
+  {
+    "so_cau": 77,
+    "cau_hoi": "Những yếu tố nào sau đây có nguy cơ gây bệnh nghề nghiệp trong lao động sản xuất?",
+    "lua_chon": {
+      "A": "1, 2, 3, 4 (Các yếu tố vi khí hậu xấu, chiếu sáng không hợp lý, tiếng ồn, rung động, bụi, bức xạ, phóng xạ, áp suất cao, vi sinh vật có hại, hóa chất độc, nổ vật lý, nổ hóa học, vật rơi, cường độ lao động, tư thế lao động không hợp lý)",
+      "B": "1, 2, 4 (Các yếu tố vi khí hậu xấu, chiếu sáng không hợp lý, tiếng ồn, rung động, bụi, bức xạ, phóng xạ, áp suất cao, vi sinh vật có hại, cường độ lao động, tư thế lao động không hợp lý)",
+      "C": "1, 3, 4 (Các yếu tố vi khí hậu xấu, chiếu sáng không hợp lý, tiếng ồn, rung động, bụi, hóa chất độc, nổ vật lý, nổ hóa học, vật rơi, cường độ lao động, tư thế lao động không hợp lý)",
+      "D": "1, 2, 3 (Các yếu tố vi khí hậu xấu, chiếu sáng không hợp lý, tiếng ồn, rung động, bụi, bức xạ, phóng xạ, áp suất cao, vi sinh vật có hại, hóa chất độc, nổ vật lý, nổ hóa học, vật rơi)"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:08"
+  },
+  {
+    "so_cau": 78,
+    "cau_hoi": "Vi khí hậu là trạng thái lý học của không khí trong khoảng không gian thu hẹp, bao gồm các yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "Nhiệt độ, độ ẩm, bức xạ nhiệt.",
+      "B": "Nhiệt độ, độ ẩm, bức xạ nhiệt và vận tốc chuyển động không khí.",
+      "C": "Nhiệt độ, độ ẩm, vi khuẩn.",
+      "D": "Nhiệt độ, độ ẩm, bức xạ nhiệt, tiếng ồn, rung động."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Dia_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:09"
+  },
+  {
+    "so_cau": 79,
+    "cau_hoi": "Các biện pháp phòng chống vi khí hậu xấu bao gồm những yếu tố nào sau đây: (1) Tổ chức sản xuất lao động hợp lý, phòng hộ cá nhân; (2) Quy hoạch nhà xưởng và các thiết bị, thông gió, làm mát; (3) Thiết bị và quá trình công nghệ?",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 3"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:11"
+  },
+  {
+    "so_cau": 80,
+    "cau_hoi": "Các biện pháp phòng chống vi khí hậu xấu:",
+    "lua_chon": {
+      "A": "Tổ chức sản xuất lao động hợp lý, trang bị phòng hộ cá nhân.",
+      "B": "Quy hoạch nhà xưởng và bố trí thiết bị hợp lý, thông gió, làm nguội.",
+      "C": "Cải tiến thiết bị và quy trình công nghệ.",
+      "D": "Tất cả các ý trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:12"
+  },
+  {
+    "so_cau": 81,
+    "cau_hoi": "Tiếng ồn và rung động có ảnh hưởng đến sinh lý con người, cụ thể là:",
+    "lua_chon": {
+      "A": "Hệ thần kinh trung ương",
+      "B": "Hệ thống tim mạch",
+      "C": "Cơ quan thính giác",
+      "D": "Tất cả các đáp án trên"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Sinh học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:55"
+  },
+  {
+    "so_cau": 82,
+    "cau_hoi": "Tiếng ồn và rung động có ảnh hưởng đến những hệ cơ quan nào sau đây của cơ thể con người?",
+    "lua_chon": {
+      "A": "Hệ thần kinh trung ương, hệ thống tim mạch, cơ quan thính giác",
+      "B": "Hệ thống tim mạch, cơ quan thính giác",
+      "C": "Hệ thần kinh trung ương, hệ thống tim mạch",
+      "D": "Hệ thần kinh trung ương, cơ quan thính giác"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:57"
+  },
+  {
+    "so_cau": 83,
+    "cau_hoi": "Các biện pháp chung phòng chống tiếng ồn và rung động là:",
+    "lua_chon": {
+      "A": "Nghiên cứu các biện pháp quy hoạch xây dựng chống tiếng ồn và rung động.",
+      "B": "Cần hạn chế sự lan truyền tiếng ồn ngay trong phạm vi của xí nghiệp.",
+      "C": "Phải trồng các dải cây xanh bảo vệ để chống ồn và làm sạch môi trường.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "khoa_hoc_moi_truong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:43:59"
+  },
+  {
+    "so_cau": 84,
+    "cau_hoi": "Các phương án nào sau đây giúp giảm tiếng ồn trong môi trường làm việc?",
+    "lua_chon": {
+      "A": "Hiện đại hóa thiết bị, hoàn thiện quá trình công nghệ.",
+      "B": "Quy hoạch thời gian làm việc của các xưởng có nhiều tiếng ồn.",
+      "C": "Áp dụng hệ thống điều khiển từ xa.",
+      "D": "Tất cả các phương án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:00"
+  },
+  {
+    "so_cau": 85,
+    "cau_hoi": "Các nguyên tắc giảm tiếng ồn trên đường lan truyền bao gồm những ý nào sau đây:\n(1) Nguyên tắc hút âm;\n(2) Nguyên tắc cách âm;\n(3) Quy hoạch thời gian làm việc của các xưởng ồn.",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 3"
+    },
+    "dap_an": "AC",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:02"
+  },
+  {
+    "so_cau": 86,
+    "cau_hoi": "Người ta phân loại bụi theo những tiêu chí nào sau đây?",
+    "lua_chon": {
+      "A": "Theo nguồn gốc.",
+      "B": "Theo kích thước hạt bụi.",
+      "C": "Theo tác hại.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "khoa_hoc_tu_nhien",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:03"
+  },
+  {
+    "so_cau": 87,
+    "cau_hoi": "Những hạt bụi nào dễ xâm nhập vào phổi nhất và gây hại nhiều nhất?",
+    "lua_chon": {
+      "A": "Bụi có kích thước dưới 5 μm",
+      "B": "Hạt bụi thô",
+      "C": "Bụi có kích thước trên 10 μm",
+      "D": "Bụi có kích thước lớn hơn 15 μm"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:05"
+  },
+  {
+    "so_cau": 88,
+    "cau_hoi": "Tác hại của bụi đối với cơ thể con người là gây ra các bệnh nào sau đây?",
+    "lua_chon": {
+      "A": "Bệnh về đường hô hấp",
+      "B": "Bệnh ngoài da",
+      "C": "Bệnh về đường tiêu hoá",
+      "D": "Tất cả các bệnh trên"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:06"
+  },
+  {
+    "so_cau": 89,
+    "cau_hoi": "Tác hại của bụi đối với cơ thể con người gây ra các loại bệnh nào sau đây:\n(1) Bệnh về đường hô hấp\n(2) Bệnh ngoài da\n(3) Bệnh về đường tiêu hóa\n(4) Bệnh thiếu máu",
+    "lua_chon": {
+      "A": "1, 2, 3, 4",
+      "B": "1, 2, 4",
+      "C": "1, 3, 4",
+      "D": "1, 2, 3"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:08"
+  },
+  {
+    "so_cau": 90,
+    "cau_hoi": "Các biện pháp phòng chống bụi bao gồm:",
+    "lua_chon": {
+      "A": "Thay đổi phương pháp công nghệ.",
+      "B": "Đề phòng bụi cháy nổ.",
+      "C": "Vệ sinh cá nhân.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:09"
+  },
+  {
+    "so_cau": 91,
+    "cau_hoi": "Hãy nêu các biện pháp cơ bản nhằm khắc phục điều kiện vi khí hậu xấu trong lao động sản xuất:",
+    "lua_chon": {
+      "A": "Cơ giới hóa, tự động hóa; bố trí mặt bằng nhà xưởng, đường đi lại và vận chuyển; sắp xếp nguyên vật liệu, bán thành phẩm và thành phẩm hợp lý, đảm bảo sự di chuyển dễ dàng của các loại máy móc, phương tiện.",
+      "B": "Biện pháp giảm bức xạ, áp dụng thông gió và điều hòa không khí; làm lán để chống gió lạnh, che nắng, che mưa khi làm việc ngoài trời.",
+      "C": "Áp dụng thông gió và điều hòa không khí; vệ sinh nơi làm việc, bảo đảm diện tích nơi làm việc, khoảng cách không gian cần thiết cho mỗi người lao động.",
+      "D": "Áp dụng thông gió và điều hòa không khí, trang bị đầy đủ các phương tiện bảo vệ cá nhân; làm lán để chống lạnh, che nắng, che mưa khi làm việc ngoài trời."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:11"
+  },
+  {
+    "so_cau": 92,
+    "cau_hoi": "Hãy nêu các biện pháp cơ bản để chống bụi trong lao động sản xuất.",
+    "lua_chon": {
+      "A": "Áp dụng các biện pháp cách ly, giảm thiểu tiếng ồn, rung động hoặc các biện pháp giảm tiếng ồn lan truyền, trồng cây xanh. Sử dụng đầy đủ các phương tiện bảo vệ cá nhân.",
+      "B": "Áp dụng các biện pháp làm giảm phát sinh bụi từ nguồn gây bụi; phun nước (dạng sương) làm giảm lượng bụi trong không khí; dùng các thiết bị hút bụi; tăng cường vệ sinh công nghiệp. Sử dụng đầy đủ phương tiện bảo vệ cá nhân.",
+      "C": "Áp dụng các biện pháp làm giảm nguồn gây bụi; phun nước làm giảm lượng bụi trong không khí; dùng các thiết bị hút bụi; tăng cường vệ sinh công nghiệp.",
+      "D": "Phun nước làm giảm lượng bụi trong không khí; dùng các thiết bị hút bụi; tăng cường vệ sinh công nghiệp, đặc biệt là quan tâm đến các bụi dễ gây ra cháy nổ."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:13"
+  },
+  {
+    "so_cau": 93,
+    "cau_hoi": "Hãy nêu các biện pháp cơ bản để chống ồn và rung trong lao động sản xuất:",
+    "lua_chon": {
+      "A": "Cơ giới hóa, tự động hóa; áp dụng thông gió và điều hòa không khí; trang bị đầy đủ các phương tiện bảo vệ cá nhân.",
+      "B": "Đảm bảo khoảng cách quy định từ nguồn ồn đến nơi người lao động làm việc, giảm ngay tiếng ồn từ nguồn gây ồn và sử dụng đầy đủ các phương tiện bảo vệ cá nhân.",
+      "C": "Xử lý chất thải và nước thải; tổ chức thời giờ làm việc và nghỉ ngơi; áp dụng các biện pháp chăm sóc sức khỏe người lao động, bồi dưỡng, điều dưỡng... phục hồi sức khỏe.",
+      "D": "Đảm bảo khoảng cách quy định từ nguồn ồn đến nơi người lao động làm việc, giảm ngay tiếng ồn từ nguồn gây ồn, áp dụng các biện pháp cách ly, triệt tiêu tiếng ồn, rung hoặc các biện pháp giảm tiếng ồn lan truyền, trồng cây xanh...."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:16"
+  },
+  {
+    "so_cau": 94,
+    "cau_hoi": "Các biện pháp nào sau đây được sử dụng để đề phòng tác hại nghề nghiệp?",
+    "lua_chon": {
+      "A": "Biện pháp kỹ thuật công nghệ, biện pháp kỹ thuật vệ sinh.",
+      "B": "Biện pháp phòng hộ cá nhân, biện pháp tổ chức lao động khoa học.",
+      "C": "Biện pháp y tế dự phòng.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:17"
+  },
+  {
+    "so_cau": 95,
+    "cau_hoi": "Các biện pháp đề phòng tác hại nghề nghiệp bao gồm các ý nào sau đây:\n(1) Biện pháp kỹ thuật công nghệ, biện pháp kỹ thuật vệ sinh;\n(2) Biện pháp phòng hộ cá nhân, biện pháp tổ chức lao động khoa học;\n(3) Biện pháp y tế dự phòng.",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "1, 2",
+      "D": "1, 3"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:19"
+  },
+  {
+    "so_cau": 96,
+    "cau_hoi": "Mục đích của thông gió là:",
+    "lua_chon": {
+      "A": "Thông gió chống nóng, chống bụi và hơi khí độc, khử độc.",
+      "B": "Thông gió chống bụi và hơi khí độc, khử độc.",
+      "C": "Thông gió chống nóng, chống bụi và hơi khí độc.",
+      "D": "Thông gió chống nóng, khử độc."
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:34"
+  },
+  {
+    "so_cau": 97,
+    "cau_hoi": "Triệu chứng của nhiễm xạ cấp tính là gì?",
+    "lua_chon": {
+      "A": "Thần kinh trung ương bị rối loạn.",
+      "B": "Da bị bỏng, tấy đỏ ở chỗ tia phóng xạ chiếu vào.",
+      "C": "Cơ quan tạo máu bị tổn thương nặng.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:45"
+  },
+  {
+    "so_cau": 98,
+    "cau_hoi": "Triệu chứng của nhiễm xạ mãn tính là:",
+    "lua_chon": {
+      "A": "Thần kinh bị suy nhược, gầy, sút cân.",
+      "B": "Rối loạn các chức năng tạo máu.",
+      "C": "Có hiện tượng đục nhân mắt, ung thư da, ung thư xương.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:46"
+  },
+  {
+    "so_cau": 99,
+    "cau_hoi": "Các yếu tố nào sau đây có thể gây bệnh nghề nghiệp cho người lao động trong quá trình sản xuất?",
+    "lua_chon": {
+      "A": "Nguồn nhiệt",
+      "B": "Bụi, tiếng ồn",
+      "C": "Nguồn điện",
+      "D": "Vật rơi, hóa chất độc hại"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:47"
+  },
+  {
+    "so_cau": 100,
+    "cau_hoi": "Phương tiện kỹ thuật bao gồm những yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "Máy móc, thiết bị, bộ phận, dụng cụ, chi tiết.",
+      "B": "Cách thức, trình tự làm việc.",
+      "C": "Nội quy, quy trình, quy phạm.",
+      "D": "Tất cả các câu trên đều đúng."
+    },
+    "dap_an": "AB",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Ky_thuat",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:49"
+  },
+  {
+    "so_cau": 101,
+    "cau_hoi": "Chọn câu sai trong các câu sau về các yếu tố nguy hiểm trong sản xuất:",
+    "lua_chon": {
+      "A": "Các bộ phận truyền động và chuyển động.",
+      "B": "Các nguồn nhiệt.",
+      "C": "Nguồn điện.",
+      "D": "Các yếu tố vi khí hậu, bức xạ, tiếng ồn, rung động."
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:50"
+  },
+  {
+    "so_cau": 102,
+    "cau_hoi": "Trong số các yếu tố sau: (1) Các bộ phận truyền động và chuyển động; (2) Các nguồn nhiệt; (3) Vi khí hậu; (4) Nguồn điện; (5) Bức xạ và ánh sáng; (6) Tiếng ồn và rung động; (7) Vật văng bắn; Số các yếu tố nguy hiểm là:",
+    "lua_chon": {
+      "A": "6",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:52"
+  },
+  {
+    "so_cau": 103,
+    "cau_hoi": "Các tai nạn về điện có thể xảy ra do những nguyên nhân nào sau đây: (1) Điện giật và đốt cháy do điện; (2) Hỏa hoạn, cháy nổ do điện; (3) Sử dụng điện áp thấp.",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3",
+      "C": "1, 3",
+      "D": "1, 2"
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced. 'Sử dụng điện áp thấp' thường không gây tai nạn điện, do đó loại bỏ lựa chọn này.",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:54"
+  },
+  {
+    "so_cau": 104,
+    "cau_hoi": "Tình huống nào dẫn đến tai nạn điện giật?",
+    "lua_chon": {
+      "A": "Chạm điện trực tiếp.",
+      "B": "Chạm điện gián tiếp.",
+      "C": "Cả A và B đúng.",
+      "D": "Không có trường hợp nào."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:55"
+  },
+  {
+    "so_cau": 105,
+    "cau_hoi": "Tác động của dòng điện đối với cơ thể người bao gồm những tác động nào?",
+    "lua_chon": {
+      "A": "Nhiệt của dòng điện.",
+      "B": "Điện phân của dòng điện.",
+      "C": "Sinh học của dòng điện.",
+      "D": "Tất cả các câu đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:57"
+  },
+  {
+    "so_cau": 106,
+    "cau_hoi": "Dòng điện đi qua người, tỷ lệ phần trăm của dòng điện tổng đi theo đường nào là lớn nhất?",
+    "lua_chon": {
+      "A": "Từ tay qua tay.",
+      "B": "Từ tay trái qua chân.",
+      "C": "Từ tay phải qua chân.",
+      "D": "Từ chân sang chân."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:44:58"
+  },
+  {
+    "so_cau": 107,
+    "cau_hoi": "Khi có người bị điện giật, muốn tách nạn nhân ra khỏi nguồn điện, ta có thể dùng các biện pháp nào sau đây?",
+    "lua_chon": {
+      "A": "Cắt các thiết bị đóng cắt gần nạn nhân nhất như công tắc, cầu dao, áp-tô-mat.",
+      "B": "Dùng dao, búa, rìu có cán cách điện để chặt đứt dây dẫn điện.",
+      "C": "Cả câu A và B cùng đúng.",
+      "D": "Cả câu A và B cùng sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:00"
+  },
+  {
+    "so_cau": 108,
+    "cau_hoi": "Khi mở và đóng cầu dao điện, cần chú ý các biện pháp nào sau đây?",
+    "lua_chon": {
+      "A": "Nên đeo găng tay khô, nghiêng đầu về một bên để tránh bị bỏng do tia lửa điện.",
+      "B": "Phải đi giày cao su hoặc dùng tấm gỗ khô để lót dưới chân.",
+      "C": "Vỏ ngoài của máy và cầu dao phải tiếp đất tốt.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:01"
+  },
+  {
+    "so_cau": 109,
+    "cau_hoi": "Quy tắc chung nào sau đây đảm bảo an toàn điện?",
+    "lua_chon": {
+      "A": "Phải che chắn các thiết bị và bộ phận mang điện.",
+      "B": "Phải chọn đúng điện áp sử dụng và thực hiện nối đất.",
+      "C": "Nghiêm chỉnh sử dụng các thiết bị, dụng cụ và bảo vệ khi làm việc.",
+      "D": "Tất cả các câu trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:03"
+  },
+  {
+    "so_cau": 110,
+    "cau_hoi": "Quy tắc chung đảm bảo an toàn điện bao gồm những vấn đề nào sau đây: (1) Che chắn các thiết bị và bộ phận mang điện; (2) Chọn đúng điện áp sử dụng và thực hiện nối đất; (3) Nghiêm chỉnh sử dụng các thiết bị, dụng cụ bảo vệ khi làm việc.",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "1, 2",
+      "C": "2, 3",
+      "D": "1, 3"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:04"
+  },
+  {
+    "so_cau": 111,
+    "cau_hoi": "Các biện pháp chủ động đề phòng tai nạn do điện gây ra là:",
+    "lua_chon": {
+      "A": "Đảm bảo tốt cách điện của thiết bị.",
+      "B": "Đảm bảo khoảng cách an toàn, bao che, rào chắn các bộ phận mang điện.",
+      "C": "Sử dụng điện áp thấp, máy biến áp cách ly. Sử dụng tín hiệu, biển báo, khóa liên động.",
+      "D": "Tất cả các câu đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vật_lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:06"
+  },
+  {
+    "so_cau": 112,
+    "cau_hoi": "Các biện pháp để ngăn ngừa, hạn chế tai nạn điện bao gồm:",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "1, 3",
+      "C": "2, 3",
+      "D": "1, 2"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:07"
+  },
+  {
+    "so_cau": 113,
+    "cau_hoi": "Điều kiện cần thiết cho quy trình cháy là:",
+    "lua_chon": {
+      "A": "Chất cháy, chất oxy hóa và mồi bắt cháy (nguồn nhiệt).",
+      "B": "Nhiệt độ chớp cháy, nhiệt độ bốc cháy, nhiệt độ tự bốc cháy.",
+      "C": "Thời gian cảm ứng của quy trình tự bốc cháy.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý/Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:50"
+  },
+  {
+    "so_cau": 114,
+    "cau_hoi": "Một đám cháy xuất hiện cần có các yếu tố nào sau đây?",
+    "lua_chon": {
+      "A": "Chất cháy, chất ôxy hóa.",
+      "B": "Chất ôxy hóa, mồi bắt cháy.",
+      "C": "Chất cháy, chất ôxy hóa với tỉ lệ xác định và mồi cháy.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:51"
+  },
+  {
+    "so_cau": 115,
+    "cau_hoi": "Nguyên lý chống cháy, nổ thường bao gồm những nội dung nào sau đây?",
+    "lua_chon": {
+      "A": "Hạ thấp tốc độ cháy của vật liệu đang cháy tới mức tối thiểu.",
+      "B": "Phân tán nhanh nhiệt lượng của đám cháy.",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phong_chay_chua_chay",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:53"
+  },
+  {
+    "so_cau": 116,
+    "cau_hoi": "Nguyên lý chống cháy, nổ thường bao gồm những nội dung nào sau đây?",
+    "lua_chon": {
+      "A": "(1), (2), (3), (4). Hạ thấp tốc độ cháy của vật liệu đang cháy tới mức tối thiểu; Phân tán nhanh nhiệt lượng của đám cháy; Giảm nhiệt độ bắt cháy, nhiệt độ tự cháy; Ngăn ngừa sự tiếp xúc với chất cháy và oxi hóa.",
+      "B": "(1), (2), (3). Hạ thấp tốc độ cháy của vật liệu đang cháy tới mức tối thiểu; Phân tán nhanh nhiệt lượng của đám cháy; Giảm nhiệt độ bắt cháy, nhiệt độ tự cháy.",
+      "C": "(2), (3), (4). Phân tán nhanh nhiệt lượng của đám cháy; Giảm nhiệt độ bắt cháy, nhiệt độ tự cháy; Ngăn ngừa sự tiếp xúc với chất cháy và oxi hóa.",
+      "D": "(1), (2), (4). Hạ thấp tốc độ cháy của vật liệu đang cháy tới mức tối thiểu; Phân tán nhanh nhiệt lượng của đám cháy; Ngăn ngừa sự tiếp xúc với chất cháy và oxi hóa."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:55"
+  },
+  {
+    "so_cau": 117,
+    "cau_hoi": "Chọn câu sai trong các phát biểu sau về biện pháp dập tắt đám cháy:",
+    "lua_chon": {
+      "A": "Làm loãng nồng độ chất cháy với chất ôxi hóa.",
+      "B": "Ngăn ngừa sự tiếp xúc giữa chất cháy và chất ôxi hóa.",
+      "C": "Làm lạnh vùng cháy đến nhiệt độ thấp hơn nhiệt độ cháy của vật liệu.",
+      "D": "Giảm nhiệt độ bắt cháy, nhiệt độ tự cháy."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:56"
+  },
+  {
+    "so_cau": 118,
+    "cau_hoi": "Các chất chữa cháy cần phải có các yêu cầu cơ bản nào sau đây?",
+    "lua_chon": {
+      "A": "Có hiệu quả chữa cháy cao.",
+      "B": "Dễ kiếm và rẻ, không gây độc hại đối với người khi sử dụng và bảo quản.",
+      "C": "Không làm hư hỏng các thiết bị cứu chữa và các thiết bị, đồ vật được cứu chữa.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phong_chay_chua_chay",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:58"
+  },
+  {
+    "so_cau": 119,
+    "cau_hoi": "Các chất chữa cháy nào sau đây thường được sử dụng?",
+    "lua_chon": {
+      "A": "Nước, hơi nước.",
+      "B": "Bột chữa cháy.",
+      "C": "Khí CO2.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "de",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:45:59"
+  },
+  {
+    "so_cau": 120,
+    "cau_hoi": "Tiêu lệnh Phòng cháy chữa cháy là:",
+    "lua_chon": {
+      "A": "Báo động - Cắt điện - Dập cháy - Gọi 114",
+      "B": "Báo động - Gọi 114 - Cắt điện - Dập cháy",
+      "C": "Gọi 114 - Báo động - Cắt điện - Dập cháy",
+      "D": "Báo động - Cắt điện - Gọi 114 - Dập cháy"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phong_chay_chua_chay",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:01"
+  },
+  {
+    "so_cau": 121,
+    "cau_hoi": "Luật PCCC quy định mọi hoạt động PCCC trước hết phải thực hiện bằng lực lượng và phương tiện như thế nào?",
+    "lua_chon": {
+      "A": "Bằng lực lượng và phương tiện tại chỗ",
+      "B": "Bằng lực lượng và phương tiện của lực lượng Cảnh sát PC&CC",
+      "C": "Bằng lực lượng và phương tiện của cơ sở",
+      "D": "Bằng lực lượng và phương tiện của lực lượng dân phòng"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phap_luat_dai_cuong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:02"
+  },
+  {
+    "so_cau": 122,
+    "cau_hoi": "Bình chữa cháy có ghi chữ A là bình dùng để chữa các đám cháy nào?",
+    "lua_chon": {
+      "A": "Chất lỏng",
+      "B": "Chất khí",
+      "C": "Chất rắn",
+      "D": "Chất điện"
+    },
+    "dap_an": "C",
+    "do_kho": "de",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:04"
+  },
+  {
+    "so_cau": 123,
+    "cau_hoi": "Bình chữa cháy có ghi chữ B là bình dùng để chữa các đám cháy nào?",
+    "lua_chon": {
+      "A": "Chữa các đám cháy chất lỏng",
+      "B": "Chữa các đám cháy chất khí",
+      "C": "Chữa các đám cháy chất rắn",
+      "D": "Không dùng được"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:05"
+  },
+  {
+    "so_cau": 124,
+    "cau_hoi": "Bình chữa cháy có ghi chữ C là bình dùng để chữa các đám cháy nào?",
+    "lua_chon": {
+      "A": "Chữa các đám cháy chất lỏng.",
+      "B": "Chữa các đám cháy chất khí.",
+      "C": "Chữa các đám cháy chất rắn.",
+      "D": "Chữa các đám cháy điện."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vật_lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:07"
+  },
+  {
+    "so_cau": 125,
+    "cau_hoi": "Quy trình cứu người bị điện giật nào sau đây là đúng nhất?",
+    "lua_chon": {
+      "A": "Tách nạn nhân ra khỏi nguồn điện, sơ cứu, gọi người giúp đỡ.",
+      "B": "Cắt nguồn điện, gọi người giúp đỡ, sơ cứu.",
+      "C": "Kéo nạn nhân ra khỏi nguồn điện, đưa đến cơ sở y tế.",
+      "D": "Cắt nguồn điện, gọi người giúp đỡ."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:08"
+  },
+  {
+    "so_cau": 126,
+    "cau_hoi": "Khi chữa đám cháy xăng dầu, không được dùng vật liệu nào sau đây?",
+    "lua_chon": {
+      "A": "Nước",
+      "B": "Bình CO2",
+      "C": "Cát",
+      "D": "Chăn chiên nhúng nước"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:10"
+  },
+  {
+    "so_cau": 127,
+    "cau_hoi": "Bình chữa cháy CO2 dùng để chữa cháy đám cháy nào?",
+    "lua_chon": {
+      "A": "Cháy than cốc",
+      "B": "Cháy điện",
+      "C": "Cháy phân đạm",
+      "D": "Cháy kim loại kiềm"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:11"
+  },
+  {
+    "so_cau": 128,
+    "cau_hoi": "Khi nhận được lệnh huy động tham gia cứu chữa đám cháy, bạn sẽ thực hiện như thế nào?",
+    "lua_chon": {
+      "A": "Nhanh chóng tiếp cận đám cháy để cứu người.",
+      "B": "Nhanh chóng tiếp cận đám cháy, sử dụng các dụng cụ tham gia chữa cháy.",
+      "C": "Nhanh chóng nhận lệnh, sử dụng các dụng cụ chữa cháy và thực hiện theo sự chỉ dẫn của lực lượng chữa cháy chuyên nghiệp.",
+      "D": "Cần nắm rõ tình hình an toàn và kiến thức cá nhân rồi quyết định."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "ky_nang_song",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:53"
+  },
+  {
+    "so_cau": 129,
+    "cau_hoi": "Người công nhân tử vong sau khi bị thương ở đầu do ngã khỏi cầu thang không có tay vịn vì mất thăng bằng trên sàn giàn giáo trơn trượt trong lúc thực hiện công việc. Nguyên nhân nào dẫn đến tai nạn này?",
+    "lua_chon": {
+      "A": "Thiếu biện pháp bảo vệ an toàn khi làm việc trên cao.",
+      "B": "Sàn giàn giáo trơn trượt.",
+      "C": "Cầu thang không có tay vịn.",
+      "D": "Tất cả các nguyên nhân trên."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:55"
+  },
+  {
+    "so_cau": 130,
+    "cau_hoi": "Tình huống tai nạn: Tay phải của người lao động bị kéo vào băng chuyền cao su dùng để chuyển đất cát khi đang dùng dao làm sạch đất cát khỏi bề mặt con lăn. Nguyên nhân của tai nạn là:",
+    "lua_chon": {
+      "A": "Người lao động không tuân thủ quy trình an toàn lao động.",
+      "B": "Thiết bị băng chuyền không có hệ thống bảo vệ an toàn.",
+      "C": "Người lao động thiếu kinh nghiệm và kỹ năng làm việc.",
+      "D": "Tất cả các nguyên nhân trên."
+    },
+    "dap_an": "B",
+    "do_kho": "kho",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:57"
+  },
+  {
+    "so_cau": 131,
+    "cau_hoi": "Một người đang đứng dưới đất bị điện giật do tay chạm vào tủ lạnh bị rò điện. Phải làm gì để tách nạn nhân ra khỏi nguồn điện?",
+    "lua_chon": {
+      "A": "Nhanh chóng kéo nạn nhân ra khỏi tủ lạnh.",
+      "B": "Rút phích cắm điện của tủ lạnh hoặc ngắt cầu chì, aptomat rồi kéo nạn nhân ra khỏi tủ lạnh.",
+      "C": "Lót tay bằng vải khô kéo nạn nhân ra khỏi tủ lạnh.",
+      "D": "Rút phích cắm điện của tủ lạnh hoặc ngắt cầu chì (hoặc aptomat) rồi lót tay bằng vật liệu cách điện, sau đó kéo nạn nhân ra khỏi tủ lạnh."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "vat_ly",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:46:58"
+  },
+  {
+    "so_cau": 132,
+    "cau_hoi": "Người công nhân tử vong sau khi va đập với xe nâng do tầm nhìn của người vận hành xe nâng bị hạn chế bởi thùng nâng phía trước xe khi di chuyển thùng tới xưởng đúc để sửa chữa. Nguyên nhân gây tai nạn là:",
+    "lua_chon": {
+      "A": "Thiếu biện pháp đảm bảo an toàn khi tầm nhìn bị hạn chế.",
+      "B": "Người công nhân không tuân thủ quy định an toàn lao động.",
+      "C": "Xe nâng không được bảo trì định kỳ.",
+      "D": "Người vận hành xe nâng thiếu kinh nghiệm."
+    },
+    "dap_an": "BD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:00"
+  },
+  {
+    "so_cau": 133,
+    "cau_hoi": "Một công nhân tử vong khi bước lên mái để gỡ các tấm vật liệu làm cửa sổ mái của nhà kho và ngã từ độ cao 5m. Nguyên nhân gây tai nạn là gì?",
+    "lua_chon": {
+      "A": "Do không sử dụng các biện pháp bảo vệ an toàn khi làm việc trên cao",
+      "B": "Do chất lượng vật liệu làm cửa sổ mái kém",
+      "C": "Do công nhân không có kinh nghiệm làm việc trên cao",
+      "D": "Do điều kiện thời tiết xấu"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:02"
+  },
+  {
+    "so_cau": 134,
+    "cau_hoi": "Chọn câu sai trong các nguyên nhân gây ra tai nạn điện:",
+    "lua_chon": {
+      "A": "Không tắt điện trước khi sửa chữa đường dây và thiết bị điện.",
+      "B": "Vi phạm khoảng cách an toàn lưới điện.",
+      "C": "Sử dụng đồ dùng điện bị hỏng lớp cách điện.",
+      "D": "Sử dụng điện áp thấp."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:03"
+  },
+  {
+    "so_cau": 135,
+    "cau_hoi": "Các nguyên nhân gây ra tai nạn về điện là:",
+    "lua_chon": {
+      "A": "Không cắt điện trước khi sửa chữa đường dây và thiết bị điện, vi phạm khoảng cách an toàn lưới điện, sử dụng đồ dùng điện bị hỏng lớp cách điện, sử dụng điện áp thấp",
+      "B": "Không cắt điện trước khi sửa chữa đường dây và thiết bị điện, vi phạm khoảng cách an toàn lưới điện",
+      "C": "Không cắt điện trước khi sửa chữa đường dây và thiết bị điện, sử dụng đồ dùng điện bị hỏng lớp cách điện, sử dụng điện áp thấp",
+      "D": "Không cắt điện trước khi sửa chữa đường dây và thiết bị điện, vi phạm khoảng cách an toàn lưới điện, sử dụng đồ dùng điện bị hỏng lớp cách điện"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Vật lý",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:05"
+  },
+  {
+    "so_cau": 136,
+    "cau_hoi": "Chọn câu trả lời sai: Tác hại của hóa chất là:",
+    "lua_chon": {
+      "A": "Gây ô nhiễm môi trường.",
+      "B": "Suy giảm sức khỏe của người lao động.",
+      "C": "Gây cháy nổ.",
+      "D": "Suy giảm thính giác người lao động."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:06"
+  },
+  {
+    "so_cau": 137,
+    "cau_hoi": "Tác hại của hóa chất bao gồm các ý nào sau đây:\n(1) Gây ô nhiễm môi trường;\n(2) Suy giảm sức khỏe của người lao động;\n(3) Suy giảm thính giác người lao động;\n(4) Gây cháy nổ",
+    "lua_chon": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4",
+      "C": "1, 2, 4",
+      "D": "1, 3, 4"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:08"
+  },
+  {
+    "so_cau": 138,
+    "cau_hoi": "Các con đường xâm nhập của hóa chất vào cơ thể:",
+    "lua_chon": {
+      "A": "Qua đường hô hấp, miệng, mẹ truyền sang con.",
+      "B": "Qua đường hô hấp, miệng, tiếp xúc.",
+      "C": "Qua đường hô hấp, miệng, mẹ truyền sang con, tiếp xúc.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:09"
+  },
+  {
+    "so_cau": 139,
+    "cau_hoi": "Các yếu tố nào sau đây có thể làm tăng nguy cơ bị nhiễm độc?",
+    "lua_chon": {
+      "A": "Nhiệt độ cao.",
+      "B": "Độ ẩm không khí tăng.",
+      "C": "Khi lao động thể lực với cường độ quá sức",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "khoa_hoc_suc_khoe",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:11"
+  },
+  {
+    "so_cau": 140,
+    "cau_hoi": "Chọn câu sai: Tác động kích thích của hóa chất đối với cơ thể thường gây:",
+    "lua_chon": {
+      "A": "Kích thích đối với da.",
+      "B": "Kích thích đối với đường hô hấp.",
+      "C": "Gây mê và gây tê.",
+      "D": "Kích thích đối với mắt."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:12"
+  },
+  {
+    "so_cau": 141,
+    "cau_hoi": "Hóa chất thưởng gây tác hại tới hệ thống các cơ quan nào của cơ thể?",
+    "lua_chon": {
+      "A": "Gây tác hại cho thận.",
+      "B": "Gây tác hại cho hệ thần kinh.",
+      "C": "Gây tác hại cho phổi.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Sinh học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:14"
+  },
+  {
+    "so_cau": 142,
+    "cau_hoi": "Nguyên tắc cơ bản phòng ngừa tác hại của hóa chất thường là:",
+    "lua_chon": {
+      "A": "Hạn chế hoặc thay thế hóa chất độc hại.",
+      "B": "Che chắn hoặc cách ly nguồn phát sinh hóa chất nguy hiểm, thông gió.",
+      "C": "Trang bị phương tiện bảo vệ cá nhân cho người lao động nhằm ngăn ngừa việc tiếp xúc trực tiếp với hóa chất.",
+      "D": "Tất cả đều đúng."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:15"
+  },
+  {
+    "so_cau": 143,
+    "cau_hoi": "Vệ sinh cá nhân nhằm giữ cho cơ thể tránh tiếp xúc với hóa chất qua những con đường nào sau đây?",
+    "lua_chon": {
+      "A": "Tránh nhiễm độc qua da.",
+      "B": "Qua đường hô hấp.",
+      "C": "Qua đường tiêu hóa.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:17"
+  },
+  {
+    "so_cau": 144,
+    "cau_hoi": "Chọn câu sai trong các nguyên tắc cơ bản về phòng chống tác hại của hóa chất:",
+    "lua_chon": {
+      "A": "Sử dụng hệ thống thông gió.",
+      "B": "Che chắn hoặc cách ly nguồn phát sinh hóa chất nguy hiểm.",
+      "C": "Tổ chức lao động hợp lý.",
+      "D": "Hạn chế hoặc thay thế hóa chất độc hại."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:47:28"
+  },
+  {
+    "so_cau": 145,
+    "cau_hoi": "Việc xử lý các hóa chất thải, điều gì được coi là ưu tiên hàng đầu?",
+    "lua_chon": {
+      "A": "Lấy mẫu phân tích.",
+      "B": "Hiểu nguồn gốc và ảnh hưởng của nó tới môi trường.",
+      "C": "Xác định lượng chất thải và lựa chọn biện pháp xử lý thích hợp đảm bảo yêu cầu vệ sinh công nghiệp theo định chế Quốc tế và Việt Nam về bảo vệ Môi trường.",
+      "D": "Kinh phí đầu tư cho phép."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc_moi_truong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:10"
+  },
+  {
+    "so_cau": 146,
+    "cau_hoi": "Trang thiết bị bảo vệ người lao động làm việc liên quan đến hóa chất phải bảo đảm nguyên tắc nào?",
+    "lua_chon": {
+      "A": "Bảo vệ toàn thân",
+      "B": "Không cháy",
+      "C": "Cách nhiệt",
+      "D": "Bền, đẹp"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:11"
+  },
+  {
+    "so_cau": 147,
+    "cau_hoi": "Người làm công tác vận tải hóa chất sử dụng trang thiết bị bảo vệ khi nào?",
+    "lua_chon": {
+      "A": "Mọi lúc, mọi nơi.",
+      "B": "Bất kỳ công việc nào có thể tạo ra nguy hiểm cho người lao động.",
+      "C": "Chỉ khi xếp hàng.",
+      "D": "Chỉ khi dỡ hàng."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:13"
+  },
+  {
+    "so_cau": 148,
+    "cau_hoi": "Khi làm việc với hóa chất độc hại, nguy hiểm, cần trang bị những thiết bị bảo hộ nào?",
+    "lua_chon": {
+      "A": "Phương tiện bảo vệ cơ quan hô hấp.",
+      "B": "Phương tiện bảo vệ mắt.",
+      "C": "Phương tiện bảo vệ thân thể, tay, chân, đầu.",
+      "D": "Tất cả các phương tiện trên tùy theo đặc tính hóa chất."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hóa_học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:14"
+  },
+  {
+    "so_cau": 149,
+    "cau_hoi": "Giải thích \"Chất nguy hiểm về cháy, nổ\" như thế nào?",
+    "lua_chon": {
+      "A": "Là chất lỏng, chất khí, máy móc hoặc vật tư, hàng hóa dễ xảy ra cháy nổ.",
+      "B": "Là chất lỏng, chất khí, chất rắn, hoặc máy móc dễ xảy ra cháy, nổ.",
+      "C": "Là chất lỏng, chất khí, chất rắn hoặc vật tư, hàng hoá dễ xảy ra cháy nổ.",
+      "D": "Các chất có tính chất đặc biệt nguy hiểm về cháy nổ như xăng, dầu, khí đốt, hóa lỏng."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "phong_chay_chua_chay",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:16"
+  },
+  {
+    "so_cau": 150,
+    "cau_hoi": "Biểu trưng mối nguy hóa chất hiển thị trên nhãn vật chứa hóa chất:",
+    "lua_chon": {
+      "A": "Biểu thị sức mạnh của hóa chất.",
+      "B": "Biểu thị dung lượng của hóa chất.",
+      "C": "Cảnh báo mối nguy hiểm tiềm tàng của hóa chất.",
+      "D": "Cho biết dạng tồn tại của hóa chất."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:20"
+  },
+  {
+    "so_cau": 151,
+    "cau_hoi": "Trường hợp nào sau đây được xác định là ngộ độc hóa chất cấp tính?",
+    "lua_chon": {
+      "A": "Ngộ độc tử vong tại chỗ.",
+      "B": "Ảnh hưởng sau nhiều năm tiếp xúc với hóa chất.",
+      "C": "Gây ung thư.",
+      "D": "Cả 3 trường hợp trên."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:21"
+  },
+  {
+    "so_cau": 152,
+    "cau_hoi": "Khi để hóa chất dễ cháy nổ, hệ thống cầu dao, cầu chì, ổ cắm, công tắc đèn chiếu sáng phải đặt ở vị trí:",
+    "lua_chon": {
+      "A": "Trong khu vực kho chứa hóa chất.",
+      "B": "Ngoài khu vực chứa hóa chất.",
+      "C": "Cách xa trong kho để hóa chất ít nhất 1,5m.",
+      "D": "Tùy thuộc vào mặt bằng khu vực để hóa chất."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc_an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:23"
+  },
+  {
+    "so_cau": 153,
+    "cau_hoi": "MSDS là chữ viết tắt của cụm từ tiếng Anh nào?",
+    "lua_chon": {
+      "A": "Phiếu kiểm soát mua bán hóa chất độc.",
+      "B": "Phiếu an toàn hóa chất.",
+      "C": "Phiếu đánh giá hóa chất mới.",
+      "D": "Phiếu xuất nhập hóa chất trong kho."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:24"
+  },
+  {
+    "so_cau": 154,
+    "cau_hoi": "Thông tin nào sau đây không có trong Bảng Chỉ Dẫn An Toàn Hóa Chất (MSDS)?",
+    "lua_chon": {
+      "A": "Tính chất vật lý của hóa chất.",
+      "B": "Cách chữa cháy và xử lý khi hóa chất bị tràn.",
+      "C": "Cách xử trí khi nuốt phải hoặc bị hóa chất bắn vào mắt, da.",
+      "D": "Giá cả của hóa chất."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:26"
+  },
+  {
+    "so_cau": 155,
+    "cau_hoi": "Thứ tự ưu tiên kiểm soát ảnh hưởng của hóa chất là:",
+    "lua_chon": {
+      "A": "Loại bỏ, thay thế - Che chắn, cách ly - Thông gió - Phương tiện bảo vệ cá nhân.",
+      "B": "Phương tiện bảo vệ cá nhân - Loại bỏ, thay thế - Thông gió - Che chắn, cách ly.",
+      "C": "Phương tiện bảo vệ cá nhân - Thông gió - Loại bỏ, thay thế - Che chắn, cách ly.",
+      "D": "Loại bỏ, thay thế - Phương tiện bảo vệ cá nhân - Che chắn, cách ly - Thông gió."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc_an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:27"
+  },
+  {
+    "so_cau": 156,
+    "cau_hoi": "Thông tin nào sau đây được thể hiện trên nhãn hóa chất theo cả hệ thống NFPA và HMIS?",
+    "lua_chon": {
+      "A": "Mối nguy sức khỏe, khả năng cháy, khả năng phản ứng.",
+      "B": "Khả năng cháy, khả năng phản ứng, bảo hộ cá nhân.",
+      "C": "Mối nguy sức khỏe, khả năng cháy, bảo hộ cá nhân.",
+      "D": "Mối nguy sức khỏe, khả năng phản ứng, bảo hộ cá nhân."
+    },
+    "dap_an": "A",
+    "do_kho": "kho",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:29"
+  },
+  {
+    "so_cau": 157,
+    "cau_hoi": "Thông tin nào sau đây không được thể hiện trên nhãn hóa chất theo tiêu chuẩn NFPA?",
+    "lua_chon": {
+      "A": "Mức độ nguy hiểm về sức khỏe.",
+      "B": "Yêu cầu về bảo hộ cá nhân.",
+      "C": "Mức độ nguy hiểm về khả năng phản ứng.",
+      "D": "Cảnh báo về nguy cơ cháy nổ."
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:31"
+  },
+  {
+    "so_cau": 158,
+    "cau_hoi": "Phân loại trang bị phương tiện bảo vệ mắt gồm các loại nào sau đây:",
+    "lua_chon": {
+      "A": "Loại bảo vệ mắt khỏi bị tổn thương do vật rắn bắn vào, khỏi bị bỏng và loại bảo vệ mắt khỏi bị tổn thương bởi các tia năng lượng.",
+      "B": "Loại bảo vệ tránh các loại hơi, khí độc bay vào mắt và loại bảo vệ mắt khỏi bị tổn thương do vật rắn bắn vào, khỏi bị bỏng.",
+      "C": "Loại bảo vệ tránh các loại hơi, khí độc bay vào mắt và loại bảo vệ chống bức xạ của ánh nắng mặt trời.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "AD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "bao_ho_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:32"
+  },
+  {
+    "so_cau": 159,
+    "cau_hoi": "Hãy nêu tác dụng của trang bị bảo vệ cơ quan hô hấp:",
+    "lua_chon": {
+      "A": "Phòng tránh các loại vi sinh vật có hại cho sức khỏe thâm nhập vào cơ quan hô hấp.",
+      "B": "Phòng tránh các loại hơi, khí độc, các loại bụi thâm nhập vào cơ quan hô hấp.",
+      "C": "Phòng tránh các loại hơi, khí quá nóng hoặc quá lạnh thâm nhập vào cơ quan hô hấp.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "BD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "y_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:34"
+  },
+  {
+    "so_cau": 160,
+    "cau_hoi": "Phiếu an toàn hóa chất (MSDS) cung cấp thông tin gì?",
+    "lua_chon": {
+      "A": "Địa chỉ mua hóa chất.",
+      "B": "Địa chỉ liên hệ cấp cứu khi có sự cố.",
+      "C": "Thông tin về hóa chất và biện pháp sơ cứu.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:45"
+  },
+  {
+    "so_cau": 161,
+    "cau_hoi": "Phiếu an toàn hóa chất (MSDS) không cho chúng ta biết điều gì?",
+    "lua_chon": {
+      "A": "Biện pháp sơ cứu.",
+      "B": "Biện pháp ứng phó khi có sự cố.",
+      "C": "Địa chỉ để đưa đi cấp cứu khi có sự cố.",
+      "D": "Thông tin về hóa chất."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hóa_học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:46"
+  },
+  {
+    "so_cau": 162,
+    "cau_hoi": "Hình đồ sau cảnh báo điều gì?",
+    "lua_chon": {
+      "A": "Hóa chất ăn mòn.",
+      "B": "Chất dễ cháy nổ.",
+      "C": "Chất độc.",
+      "D": "Chất gây kích thích."
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:47"
+  },
+  {
+    "so_cau": 163,
+    "cau_hoi": "Hình đồ (biểu tượng) thường được dùng để cảnh báo điều gì?",
+    "lua_chon": {
+      "A": "Hóa chất ăn mòn",
+      "B": "Chất dễ cháy nổ",
+      "C": "Chất độc",
+      "D": "Chất gây kích thích"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:49"
+  },
+  {
+    "so_cau": 164,
+    "cau_hoi": "Hình đồ sau cảnh báo điều gì?",
+    "lua_chon": {
+      "A": "Hóa chất ăn mòn",
+      "B": "Chất dễ cháy nổ",
+      "C": "Chất độc",
+      "D": "Chất gây kích thích"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:51"
+  },
+  {
+    "so_cau": 165,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo khi vận chuyển chất khí dễ cháy?",
+    "lua_chon": {
+      "A": "Hình 1",
+      "B": "Hình 2",
+      "C": "Hình 3",
+      "D": "Hình 4"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:52"
+  },
+  {
+    "so_cau": 166,
+    "cau_hoi": "Trong số các phương tiện sau, phương tiện nào không thuộc phương tiện bảo vệ cá nhân?",
+    "lua_chon": {
+      "A": "Mặt nạ phòng độc",
+      "B": "Găng tay",
+      "C": "Kính áp tròng",
+      "D": "Áo choàng"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "an_toan_lao_dong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:54"
+  },
+  {
+    "so_cau": 167,
+    "cau_hoi": "Hóa chất có khả năng gây hại khi nào?",
+    "lua_chon": {
+      "A": "Khi sang chiết từ vật chứa này sang vật chứa khác.",
+      "B": "Cất giữ hóa chất không đúng quy trình.",
+      "C": "Phun xịt hóa chất không đúng cách.",
+      "D": "Tất cả các ý trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:55"
+  },
+  {
+    "so_cau": 168,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo hóa chất nguy hại đến sức khỏe?",
+    "lua_chon": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:56"
+  },
+  {
+    "so_cau": 169,
+    "cau_hoi": "Hình nào sau đây cảnh báo chất nguy hiểm vật lý?",
+    "lua_chon": {
+      "A": "Hình 1",
+      "B": "Hình 2",
+      "C": "Hình 3",
+      "D": "Hình 4"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:58"
+  },
+  {
+    "so_cau": 170,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo chất nguy hại đến môi trường?",
+    "lua_chon": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:48:59"
+  },
+  {
+    "so_cau": 171,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo khi vận chuyển hóa chất oxit hữu cơ?",
+    "lua_chon": {
+      "A": "Hình 1",
+      "B": "Hình 2",
+      "C": "Hình 3",
+      "D": "Hình 4"
+    },
+    "dap_an": "B",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hóa_học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:01"
+  },
+  {
+    "so_cau": 172,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo khi vận chuyển chất lỏng dễ cháy?",
+    "lua_chon": {
+      "A": "Hình 1",
+      "B": "Hình 2",
+      "C": "Hình 3",
+      "D": "Hình 4"
+    },
+    "dap_an": "A",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:03"
+  },
+  {
+    "so_cau": 173,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo khi vận chuyển chất rắn dễ cháy?",
+    "lua_chon": {
+      "A": "Hình đồ 1",
+      "B": "Hình đồ 2",
+      "C": "Hình đồ 3",
+      "D": "Hình đồ 4"
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:04"
+  },
+  {
+    "so_cau": 174,
+    "cau_hoi": "Hình đồ nào sau đây cảnh báo khi vận chuyển chất lây nhiễm?",
+    "lua_chon": {
+      "A": "Hình 1",
+      "B": "Hình 2",
+      "C": "Hình 3",
+      "D": "Hình 4"
+    },
+    "dap_an": "CD",
+    "do_kho": "trung_binh",
+    "mon_hoc": "sinh_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:06"
+  },
+  {
+    "so_cau": 175,
+    "cau_hoi": "Nguyên tắc cơ bản khi bảo quản hóa chất dễ cháy nổ là:",
+    "lua_chon": {
+      "A": "Có thể để cùng với hóa chất dễ cháy nổ khác.",
+      "B": "Có thể để cùng với những hóa chất ăn mòn khác.",
+      "C": "Tuyệt đối không để hóa chất dễ cháy nổ với các chất duy trì sự cháy.",
+      "D": "Để ở nơi khô ráo, thoáng mát."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học/An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:07"
+  },
+  {
+    "so_cau": 176,
+    "cau_hoi": "Sự cố hóa chất là gì?",
+    "lua_chon": {
+      "A": "Cháy nổ, rò rỉ hóa chất.",
+      "B": "Tràn đổ, rò rỉ hóa chất.",
+      "C": "Phát tán hóa chất nguy hại.",
+      "D": "Cháy nổ, rò rỉ, phát tán hóa chất gây hại hoặc có nguy cơ gây hại cho người, tài sản và môi trường."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "hoa_hoc",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:50"
+  },
+  {
+    "so_cau": 177,
+    "cau_hoi": "Các sự cố nguy hiểm nào có thể xảy ra trong quá trình bảo quản hóa chất?",
+    "lua_chon": {
+      "A": "Tràn đổ, rò rỉ hóa chất",
+      "B": "Cháy nổ",
+      "C": "Phản ứng hóa học giữa các chất không tương thích",
+      "D": "Cả 3 phương án trên"
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:51"
+  },
+  {
+    "so_cau": 178,
+    "cau_hoi": "Khi làm việc với hóa chất độc hại cần phải trang bị những phương tiện bảo vệ cá nhân nào?",
+    "lua_chon": {
+      "A": "Phương tiện bảo vệ cơ quan hô hấp.",
+      "B": "Phương tiện bảo vệ mắt.",
+      "C": "Phương tiện bảo vệ thân thể, tay, chân, đầu.",
+      "D": "Tất cả các phương tiện trên tùy theo đặc thù công việc."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "Hóa học",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:53"
+  },
+  {
+    "so_cau": 179,
+    "cau_hoi": "Ý nghĩa của việc phân loại chất thải nguy hại là gì?",
+    "lua_chon": {
+      "A": "Bảo vệ môi trường sống và sức khỏe con người.",
+      "B": "Để tận thu các chất thải còn nhiều giá trị kinh tế.",
+      "C": "Nhằm đưa các loại chất thải đi theo quy trình xử lý thích hợp, đảm bảo xử lý hiệu quả và an toàn môi trường.",
+      "D": "Tất cả các đáp án trên."
+    },
+    "dap_an": "D",
+    "do_kho": "trung_binh",
+    "mon_hoc": "khoa_hoc_moi_truong",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:55"
+  },
+  {
+    "so_cau": 180,
+    "cau_hoi": "Chọn câu sai về tác dụng của quần áo bảo hộ lao động:",
+    "lua_chon": {
+      "A": "Bảo vệ thân thể người lao động khỏi tác động của nhiệt, tia năng lượng.",
+      "B": "Bảo vệ thân thể người lao động khỏi tác động hóa chất, kim loại nóng chảy bắn vào, vật văng.",
+      "C": "Bảo vệ cơ thể người lao động khỏi tác động của các yếu tố vi khí hậu.",
+      "D": "Bảo vệ cơ thể người lao động khỏi tác động của tia phóng xạ."
+    },
+    "dap_an": "C",
+    "do_kho": "trung_binh",
+    "mon_hoc": "An toàn lao động",
+    "ghi_chu": "Processed by QuizMaster AI Pro Enhanced",
+    "has_images": false,
+    "created_by": "QuizMaster AI Pro Enhanced v4.0",
+    "created_time": "2025-06-01 22:49:56"
+  }
+]
