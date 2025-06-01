@@ -28,8 +28,8 @@ try:
     from backend.quiz_test_engine import QuizTestEngine
 except ImportError:
     try:
-        from test.backend.simple_agent import SimpleQuizAgent
-        from test.backend.quiz_test_engine import QuizTestEngine
+        from backend.simple_agent import SimpleQuizAgent
+        from backend.quiz_test_engine import QuizTestEngine
     except ImportError as e:
         st.error(f"❌ Lỗi import module: {e}")
         st.info("""
